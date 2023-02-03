@@ -1,0 +1,1001 @@
+checking_account_status,duration,credit_history,purpose,credit_amount,savings,present_employment,installment_rate,personal,other_debtors,present_residence,property,age,other_installment_plans,housing,existing_credits,job,dependents,telephone,foreign_worker,customer_type
+< 0 DM,6,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1169,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Real Estate,67,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,48,Existing Credits Paid Back,Radio/TV,5951,<100,1 to 4,2,Female (Div/Sep/Married),none,2,Real Estate,22,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Education,2096,<100,4 to 7,2,Male (Single),none,3,Real Estate,49,none,Own,1,Unskilled Resident,2,None,Yes,Good
+< 0 DM,42,Existing Credits Paid Back,Furniture/Equipment,7882,<100,4 to 7,2,Male (Single),guarantor,4,Society Saving/ Life Insurance,45,none,For Free,1,SkilledEmployee/Official,2,None,Yes,Good
+< 0 DM,24,Delay in Payment in past,New Car,4870,<100,1 to 4,3,Male (Single),none,4,Unknown/ No property,53,none,For Free,2,SkilledEmployee/Official,2,None,Yes,Bad
+No Checking Account,36,Existing Credits Paid Back,Education,9055,Unknown/ No Saving Ac,1 to 4,2,Male (Single),none,4,Unknown/ No property,35,none,For Free,1,Unskilled Resident,2,Yes,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Furniture/Equipment,2835,500 - 1000,>=7,3,Male (Single),none,4,Society Saving/ Life Insurance,53,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,36,Existing Credits Paid Back,Used Car,6948,<100,1 to 4,2,Male (Single),none,2,car or other,35,none,Rent,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,Radio/TV,3059,>=1000,4 to 7,2,Male (Div/Sep/Married),none,4,Real Estate,61,none,Own,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,30,Critical Account/Other Credit Existing(Not this bank),New Car,5234,<100,unemployed,4,Male (Married/Widowed),none,2,car or other,28,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Bad
+0 - 20 DM,12,Existing Credits Paid Back,New Car,1295,<100,<1,3,Female (Div/Sep/Married),none,1,car or other,25,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,48,Existing Credits Paid Back,Business,4308,<100,<1,3,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,24,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,12,Existing Credits Paid Back,Radio/TV,1567,<100,1 to 4,1,Female (Div/Sep/Married),none,1,car or other,22,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,24,Critical Account/Other Credit Existing(Not this bank),New Car,1199,<100,>=7,4,Male (Single),none,4,car or other,60,none,Own,2,Unskilled Resident,1,None,Yes,Bad
+< 0 DM,15,Existing Credits Paid Back,New Car,1403,<100,1 to 4,2,Female (Div/Sep/Married),none,4,car or other,28,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,24,Existing Credits Paid Back,Radio/TV,1282,100 - 500,1 to 4,4,Female (Div/Sep/Married),none,2,car or other,32,none,Own,1,Unskilled Resident,1,None,Yes,Bad
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Radio/TV,2424,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Society Saving/ Life Insurance,53,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,30,No Credits taken/ All Credits Paid,Business,8072,Unknown/ No Saving Ac,<1,2,Male (Single),none,3,car or other,25,Bank,Own,3,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,24,Existing Credits Paid Back,Used Car,12579,<100,>=7,4,Female (Div/Sep/Married),none,2,Unknown/ No property,44,none,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,24,Existing Credits Paid Back,Radio/TV,3430,500 - 1000,>=7,3,Male (Single),none,2,car or other,31,none,Own,1,SkilledEmployee/Official,2,Yes,Yes,Good
+No Checking Account,9,Critical Account/Other Credit Existing(Not this bank),New Car,2134,<100,1 to 4,4,Male (Single),none,4,car or other,48,none,Own,3,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,6,Existing Credits Paid Back,Radio/TV,2647,500 - 1000,1 to 4,2,Male (Single),none,3,Real Estate,44,none,Rent,1,SkilledEmployee/Official,2,None,Yes,Good
+< 0 DM,10,Critical Account/Other Credit Existing(Not this bank),New Car,2241,<100,<1,1,Male (Single),none,3,Real Estate,48,none,Rent,2,Unskilled Resident,2,None,No,Good
+0 - 20 DM,12,Critical Account/Other Credit Existing(Not this bank),Used Car,1804,100 - 500,<1,3,Male (Single),none,4,Society Saving/ Life Insurance,44,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,10,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,2069,Unknown/ No Saving Ac,1 to 4,2,Male (Married/Widowed),none,1,car or other,26,none,Own,2,SkilledEmployee/Official,1,None,No,Good
+< 0 DM,6,Existing Credits Paid Back,Furniture/Equipment,1374,<100,1 to 4,1,Male (Single),none,2,Real Estate,36,Bank,Own,1,Unskilled Resident,1,Yes,Yes,Good
+No Checking Account,6,No Credits taken/ All Credits Paid,Radio/TV,426,<100,>=7,4,Male (Married/Widowed),none,4,car or other,39,none,Own,1,Unskilled Resident,1,None,Yes,Good
+>= 200 DM,12,All Credits Paid (this bank),Radio/TV,409,>=1000,1 to 4,3,Female (Div/Sep/Married),none,3,Real Estate,42,none,Rent,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,7,Existing Credits Paid Back,Radio/TV,2415,<100,1 to 4,3,Male (Single),guarantor,2,Real Estate,34,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,60,Delay in Payment in past,Business,6836,<100,>=7,3,Male (Single),none,4,Unknown/ No property,63,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+0 - 20 DM,18,Existing Credits Paid Back,Business,1913,>=1000,<1,3,Male (Married/Widowed),none,3,Real Estate,36,Bank,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,24,Existing Credits Paid Back,Furniture/Equipment,4020,<100,1 to 4,2,Male (Single),none,2,car or other,27,Stores,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,18,Existing Credits Paid Back,New Car,5866,100 - 500,1 to 4,2,Male (Single),none,2,car or other,30,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Business,1264,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Unknown/ No property,57,none,Rent,1,Unskilled Resident,1,None,Yes,Good
+>= 200 DM,12,Existing Credits Paid Back,Furniture/Equipment,1474,<100,<1,4,Female (Div/Sep/Married),none,1,Society Saving/ Life Insurance,33,Bank,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,45,Critical Account/Other Credit Existing(Not this bank),Radio/TV,4746,<100,<1,4,Male (Single),none,2,Society Saving/ Life Insurance,25,none,Own,2,Unskilled Resident,1,None,Yes,Bad
+No Checking Account,48,Critical Account/Other Credit Existing(Not this bank),Education,6110,<100,1 to 4,1,Male (Single),none,3,Unknown/ No property,31,Bank,For Free,1,SkilledEmployee/Official,1,Yes,Yes,Good
+>= 200 DM,18,Existing Credits Paid Back,Radio/TV,2100,<100,1 to 4,4,Male (Single),co-applicant,2,Real Estate,37,Stores,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+>= 200 DM,10,Existing Credits Paid Back,Domestic Appliances,1225,<100,1 to 4,2,Male (Single),none,2,car or other,37,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,9,Existing Credits Paid Back,Radio/TV,458,<100,1 to 4,4,Male (Single),none,3,Real Estate,24,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,30,Existing Credits Paid Back,Radio/TV,2333,500 - 1000,>=7,4,Male (Single),none,2,car or other,30,Bank,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Radio/TV,1158,500 - 1000,1 to 4,3,Male (Div/Sep/Married),none,1,car or other,26,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,18,Delay in Payment in past,Repairs,6204,<100,1 to 4,2,Male (Single),none,4,Real Estate,44,none,Own,1,Unskilled Resident,2,Yes,Yes,Good
+< 0 DM,30,Critical Account/Other Credit Existing(Not this bank),Used Car,6187,100 - 500,4 to 7,1,Male (Married/Widowed),none,4,car or other,24,none,Rent,2,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,48,Critical Account/Other Credit Existing(Not this bank),Used Car,6143,<100,>=7,4,Female (Div/Sep/Married),none,4,Unknown/ No property,58,Stores,For Free,2,Unskilled Resident,1,None,Yes,Bad
+No Checking Account,11,Critical Account/Other Credit Existing(Not this bank),New Car,1393,<100,<1,4,Female (Div/Sep/Married),none,4,car or other,35,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Good
+No Checking Account,36,Existing Credits Paid Back,Radio/TV,2299,500 - 1000,>=7,4,Male (Single),none,4,car or other,39,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,6,Existing Credits Paid Back,Used Car,1352,500 - 1000,unemployed,1,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,23,none,Rent,1,UnEmp - NR,1,Yes,Yes,Good
+No Checking Account,11,Critical Account/Other Credit Existing(Not this bank),New Car,7228,<100,1 to 4,1,Male (Single),none,4,Society Saving/ Life Insurance,39,none,Own,2,Unskilled Resident,1,None,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,Radio/TV,2073,100 - 500,1 to 4,4,Female (Div/Sep/Married),co-applicant,2,Real Estate,28,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,24,Delay in Payment in past,Furniture/Equipment,2333,Unknown/ No Saving Ac,<1,4,Male (Single),none,2,Society Saving/ Life Insurance,29,Bank,Own,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,27,Delay in Payment in past,Used Car,5965,<100,>=7,1,Male (Single),none,2,car or other,30,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,Radio/TV,1262,<100,1 to 4,3,Male (Single),none,2,car or other,25,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,18,Existing Credits Paid Back,Used Car,3378,Unknown/ No Saving Ac,1 to 4,2,Male (Single),none,1,Society Saving/ Life Insurance,31,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,36,Delay in Payment in past,New Car,2225,<100,>=7,4,Male (Single),none,4,Unknown/ No property,57,Bank,For Free,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,6,All Credits Paid (this bank),New Car,783,Unknown/ No Saving Ac,1 to 4,1,Male (Single),guarantor,2,Real Estate,26,Stores,Own,1,Unskilled Resident,2,None,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Radio/TV,6468,Unknown/ No Saving Ac,unemployed,2,Male (Single),none,1,Unknown/ No property,52,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,36,Critical Account/Other Credit Existing(Not this bank),Radio/TV,9566,<100,1 to 4,2,Female (Div/Sep/Married),none,2,car or other,31,Stores,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+>= 200 DM,18,Existing Credits Paid Back,New Car,1961,<100,>=7,3,Female (Div/Sep/Married),none,2,car or other,23,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Good
+< 0 DM,36,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,6229,<100,<1,4,Female (Div/Sep/Married),co-applicant,4,Unknown/ No property,23,none,Rent,2,Unskilled Resident,1,Yes,Yes,Bad
+0 - 20 DM,9,Existing Credits Paid Back,Business,1391,<100,1 to 4,2,Male (Married/Widowed),none,1,Real Estate,27,Bank,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,15,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1537,Unknown/ No Saving Ac,>=7,4,Male (Single),guarantor,4,Real Estate,50,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,36,No Credits taken/ All Credits Paid,Business,1953,<100,>=7,4,Male (Single),none,4,Unknown/ No property,61,none,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+0 - 20 DM,48,No Credits taken/ All Credits Paid,Business,14421,<100,1 to 4,2,Male (Single),none,2,car or other,25,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,24,Existing Credits Paid Back,Radio/TV,3181,<100,<1,4,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,26,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,27,Existing Credits Paid Back,Repairs,5190,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Society Saving/ Life Insurance,48,none,Own,4,SkilledEmployee/Official,2,Yes,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,Radio/TV,2171,<100,<1,2,Female (Div/Sep/Married),none,2,car or other,29,Bank,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,New Car,1007,>=1000,1 to 4,4,Male (Married/Widowed),none,1,Real Estate,22,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,36,Existing Credits Paid Back,Education,1819,<100,1 to 4,4,Male (Single),none,4,Unknown/ No property,37,Stores,For Free,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,36,Existing Credits Paid Back,Radio/TV,2394,Unknown/ No Saving Ac,1 to 4,4,Female (Div/Sep/Married),none,4,car or other,25,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,36,Existing Credits Paid Back,Used Car,8133,<100,1 to 4,1,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,30,Bank,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,7,Critical Account/Other Credit Existing(Not this bank),Radio/TV,730,Unknown/ No Saving Ac,>=7,4,Male (Single),none,2,Society Saving/ Life Insurance,46,none,Rent,2,Unskilled Resident,1,Yes,Yes,Good
+< 0 DM,8,Critical Account/Other Credit Existing(Not this bank),others,1164,<100,>=7,3,Male (Single),none,4,Unknown/ No property,51,Bank,For Free,2,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Good
+0 - 20 DM,42,Critical Account/Other Credit Existing(Not this bank),Business,5954,<100,4 to 7,2,Female (Div/Sep/Married),none,1,Real Estate,41,Bank,Own,2,Unskilled Resident,1,None,Yes,Good
+< 0 DM,36,Existing Credits Paid Back,Education,1977,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Unknown/ No property,40,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+< 0 DM,12,Critical Account/Other Credit Existing(Not this bank),Used Car,1526,<100,>=7,4,Male (Single),none,4,Unknown/ No property,66,none,For Free,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Good
+< 0 DM,42,Existing Credits Paid Back,Radio/TV,3965,<100,<1,4,Male (Single),none,3,car or other,34,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,11,Delay in Payment in past,Radio/TV,4771,<100,4 to 7,2,Male (Single),none,4,Society Saving/ Life Insurance,51,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,54,No Credits taken/ All Credits Paid,Used Car,9436,Unknown/ No Saving Ac,1 to 4,2,Male (Single),none,2,Society Saving/ Life Insurance,39,none,Own,1,Unskilled Resident,2,None,Yes,Good
+0 - 20 DM,30,Existing Credits Paid Back,Furniture/Equipment,3832,<100,<1,2,Male (Married/Widowed),none,1,Society Saving/ Life Insurance,22,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Radio/TV,5943,Unknown/ No Saving Ac,<1,1,Female (Div/Sep/Married),none,1,car or other,44,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,15,Existing Credits Paid Back,Radio/TV,1213,500 - 1000,>=7,4,Male (Single),none,3,Society Saving/ Life Insurance,47,Stores,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,18,Existing Credits Paid Back,Business,1568,100 - 500,1 to 4,3,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,24,none,Rent,1,Unskilled Resident,1,None,Yes,Good
+< 0 DM,24,Existing Credits Paid Back,others,1755,<100,>=7,4,Female (Div/Sep/Married),guarantor,4,Real Estate,58,none,Own,1,Unskilled Resident,1,Yes,Yes,Good
+< 0 DM,10,Existing Credits Paid Back,Radio/TV,2315,<100,>=7,3,Male (Single),none,4,Real Estate,52,none,Own,1,Unskilled Resident,1,None,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Business,1412,<100,1 to 4,4,Female (Div/Sep/Married),guarantor,2,Real Estate,29,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,18,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,1295,<100,<1,4,Female (Div/Sep/Married),none,1,Society Saving/ Life Insurance,27,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,36,Existing Credits Paid Back,Education,12612,100 - 500,1 to 4,1,Male (Single),none,4,Unknown/ No property,47,none,For Free,1,SkilledEmployee/Official,2,Yes,Yes,Bad
+< 0 DM,18,Existing Credits Paid Back,New Car,2249,100 - 500,4 to 7,4,Male (Single),none,3,car or other,30,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Good
+< 0 DM,12,No Credits taken/ All Credits Paid,Repairs,1108,<100,4 to 7,4,Male (Single),none,3,Real Estate,28,none,Own,2,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Radio/TV,618,<100,>=7,4,Male (Single),none,4,Real Estate,56,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,12,Critical Account/Other Credit Existing(Not this bank),Used Car,1409,<100,>=7,4,Male (Single),none,3,Real Estate,54,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Radio/TV,797,Unknown/ No Saving Ac,>=7,4,Female (Div/Sep/Married),none,3,Society Saving/ Life Insurance,33,Bank,Own,1,Unskilled Resident,2,None,Yes,Bad
+>= 200 DM,24,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,3617,Unknown/ No Saving Ac,>=7,4,Male (Single),co-applicant,4,Unknown/ No property,20,none,Rent,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,New Car,1318,>=1000,>=7,4,Male (Single),none,4,Real Estate,54,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,54,No Credits taken/ All Credits Paid,Business,15945,<100,<1,3,Male (Single),none,4,Unknown/ No property,58,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Education,2012,Unknown/ No Saving Ac,4 to 7,4,Female (Div/Sep/Married),none,2,car or other,61,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,18,Existing Credits Paid Back,Business,2622,100 - 500,1 to 4,4,Male (Single),none,4,car or other,34,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,36,Critical Account/Other Credit Existing(Not this bank),Radio/TV,2337,<100,>=7,4,Male (Single),none,4,Real Estate,36,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,20,Delay in Payment in past,Used Car,7057,Unknown/ No Saving Ac,4 to 7,3,Male (Single),none,4,Society Saving/ Life Insurance,36,Bank,Rent,2,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,New Car,1469,100 - 500,>=7,4,Male (Married/Widowed),none,4,Real Estate,41,none,Rent,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,36,Existing Credits Paid Back,Radio/TV,2323,<100,4 to 7,4,Male (Single),none,4,car or other,24,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,6,Delay in Payment in past,Radio/TV,932,<100,1 to 4,3,Female (Div/Sep/Married),none,2,Real Estate,24,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,9,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,1919,<100,4 to 7,4,Male (Single),none,3,car or other,35,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,Used Car,2445,Unknown/ No Saving Ac,<1,2,Male (Married/Widowed),none,4,car or other,26,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,24,Critical Account/Other Credit Existing(Not this bank),others,11938,<100,1 to 4,2,Male (Single),co-applicant,3,car or other,39,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Bad
+No Checking Account,18,All Credits Paid (this bank),New Car,6458,<100,>=7,2,Male (Single),none,4,Unknown/ No property,39,Bank,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Bad
+0 - 20 DM,12,Existing Credits Paid Back,New Car,6078,<100,4 to 7,2,Male (Single),none,2,car or other,32,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,24,Existing Credits Paid Back,Furniture/Equipment,7721,Unknown/ No Saving Ac,<1,1,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,30,none,Own,1,SkilledEmployee/Official,1,Yes,No,Good
+0 - 20 DM,14,Existing Credits Paid Back,Business,1410,500 - 1000,>=7,1,Male (Married/Widowed),none,2,Real Estate,35,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,6,Delay in Payment in past,Business,1449,100 - 500,>=7,1,Male (Div/Sep/Married),none,2,car or other,31,Bank,Own,2,SkilledEmployee/Official,2,None,Yes,Good
+>= 200 DM,15,Existing Credits Paid Back,Education,392,<100,<1,4,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,23,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,18,Existing Credits Paid Back,New Car,6260,<100,4 to 7,3,Male (Single),none,3,Real Estate,28,none,Rent,1,Unskilled Resident,1,None,Yes,Good
+No Checking Account,36,Critical Account/Other Credit Existing(Not this bank),New Car,7855,<100,1 to 4,4,Female (Div/Sep/Married),none,2,Real Estate,25,Stores,Own,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+< 0 DM,12,Existing Credits Paid Back,Radio/TV,1680,500 - 1000,>=7,3,Male (Married/Widowed),none,1,Real Estate,35,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,48,Critical Account/Other Credit Existing(Not this bank),Radio/TV,3578,Unknown/ No Saving Ac,>=7,4,Male (Single),none,1,Real Estate,47,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,42,Existing Credits Paid Back,Radio/TV,7174,Unknown/ No Saving Ac,4 to 7,4,Female (Div/Sep/Married),none,3,car or other,30,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+< 0 DM,10,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,2132,Unknown/ No Saving Ac,<1,2,Female (Div/Sep/Married),co-applicant,3,Real Estate,27,none,Rent,2,SkilledEmployee/Official,1,None,No,Good
+< 0 DM,33,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,4281,500 - 1000,1 to 4,1,Female (Div/Sep/Married),none,4,car or other,23,none,Own,2,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,12,Critical Account/Other Credit Existing(Not this bank),New Car,2366,500 - 1000,4 to 7,3,Male (Div/Sep/Married),none,3,car or other,36,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,21,Existing Credits Paid Back,Radio/TV,1835,<100,1 to 4,3,Female (Div/Sep/Married),none,2,Real Estate,25,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Used Car,3868,<100,>=7,4,Female (Div/Sep/Married),none,2,car or other,41,none,Rent,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,Furniture/Equipment,1768,<100,1 to 4,3,Male (Single),none,2,Real Estate,24,none,Rent,1,Unskilled Resident,1,None,Yes,Good
+>= 200 DM,10,Critical Account/Other Credit Existing(Not this bank),New Car,781,<100,>=7,4,Male (Single),none,4,Unknown/ No property,63,none,For Free,2,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,18,Existing Credits Paid Back,Furniture/Equipment,1924,Unknown/ No Saving Ac,<1,4,Female (Div/Sep/Married),none,3,Real Estate,27,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,12,Critical Account/Other Credit Existing(Not this bank),New Car,2121,<100,1 to 4,4,Male (Single),none,2,Society Saving/ Life Insurance,30,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,Radio/TV,701,<100,1 to 4,4,Male (Married/Widowed),none,2,Real Estate,40,none,Own,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Repairs,639,<100,1 to 4,4,Male (Single),none,2,car or other,30,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,12,Critical Account/Other Credit Existing(Not this bank),Used Car,1860,<100,unemployed,4,Male (Single),none,2,car or other,34,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,12,Critical Account/Other Credit Existing(Not this bank),New Car,3499,<100,1 to 4,3,Female (Div/Sep/Married),co-applicant,2,Real Estate,29,none,Own,2,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,48,Existing Credits Paid Back,New Car,8487,Unknown/ No Saving Ac,4 to 7,1,Female (Div/Sep/Married),none,2,car or other,24,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,36,Delay in Payment in past,Education,6887,<100,1 to 4,4,Male (Single),none,3,Society Saving/ Life Insurance,29,Stores,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,15,Existing Credits Paid Back,Furniture/Equipment,2708,<100,<1,2,Male (Single),none,3,Society Saving/ Life Insurance,27,Bank,Own,2,Unskilled Resident,1,None,Yes,Good
+No Checking Account,18,Existing Credits Paid Back,Furniture/Equipment,1984,<100,1 to 4,4,Male (Single),none,4,Unknown/ No property,47,Bank,For Free,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,60,Existing Credits Paid Back,Radio/TV,10144,100 - 500,4 to 7,2,Female (Div/Sep/Married),none,4,Real Estate,21,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1240,Unknown/ No Saving Ac,>=7,4,Female (Div/Sep/Married),none,2,Real Estate,38,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,27,Delay in Payment in past,Used Car,8613,>=1000,1 to 4,2,Male (Single),none,2,car or other,27,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Radio/TV,766,500 - 1000,1 to 4,4,Male (Single),none,3,Real Estate,66,none,Own,1,Unskilled Resident,1,None,Yes,Bad
+0 - 20 DM,15,Critical Account/Other Credit Existing(Not this bank),Radio/TV,2728,Unknown/ No Saving Ac,4 to 7,4,Male (Single),guarantor,2,Real Estate,35,Bank,Own,3,SkilledEmployee/Official,1,Yes,Yes,Good
+>= 200 DM,12,Existing Credits Paid Back,Radio/TV,1881,<100,1 to 4,2,Female (Div/Sep/Married),none,2,car or other,44,none,Rent,1,Unskilled Resident,1,Yes,Yes,Good
+>= 200 DM,6,Existing Credits Paid Back,New Car,709,>=1000,<1,2,Male (Married/Widowed),none,2,Real Estate,27,none,Own,1,UnEmp - NR,1,None,No,Good
+0 - 20 DM,36,Existing Credits Paid Back,Radio/TV,4795,<100,<1,4,Female (Div/Sep/Married),none,1,Unknown/ No property,30,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,27,Existing Credits Paid Back,Radio/TV,3416,<100,1 to 4,3,Male (Single),none,2,car or other,27,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Good
+< 0 DM,18,Existing Credits Paid Back,Furniture/Equipment,2462,<100,1 to 4,2,Male (Single),none,2,car or other,22,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,21,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,2288,<100,<1,4,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,23,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,48,All Credits Paid (this bank),Business,3566,100 - 500,4 to 7,4,Male (Single),none,2,car or other,30,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,6,Critical Account/Other Credit Existing(Not this bank),New Car,860,<100,>=7,1,Female (Div/Sep/Married),none,4,Unknown/ No property,39,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),New Car,682,100 - 500,4 to 7,4,Female (Div/Sep/Married),none,3,car or other,51,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,36,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,5371,<100,1 to 4,3,Male (Single),guarantor,2,Society Saving/ Life Insurance,28,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,18,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1582,>=1000,>=7,4,Male (Single),none,4,car or other,46,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,6,Existing Credits Paid Back,Radio/TV,1346,100 - 500,>=7,2,Male (Single),none,4,Unknown/ No property,42,Bank,For Free,1,SkilledEmployee/Official,2,Yes,Yes,Good
+No Checking Account,10,Existing Credits Paid Back,Radio/TV,1924,<100,1 to 4,1,Male (Single),none,4,Society Saving/ Life Insurance,38,none,Own,1,SkilledEmployee/Official,1,Yes,No,Good
+>= 200 DM,36,Existing Credits Paid Back,Radio/TV,5848,<100,1 to 4,4,Male (Single),none,1,car or other,24,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,24,Critical Account/Other Credit Existing(Not this bank),Used Car,7758,>=1000,>=7,2,Female (Div/Sep/Married),none,4,Unknown/ No property,29,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,24,Delay in Payment in past,Business,6967,100 - 500,4 to 7,4,Male (Single),none,4,car or other,36,none,Rent,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,Furniture/Equipment,1282,<100,1 to 4,2,Female (Div/Sep/Married),none,4,car or other,20,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,9,Critical Account/Other Credit Existing(Not this bank),Repairs,1288,100 - 500,>=7,3,Male (Single),guarantor,4,Real Estate,48,none,Own,2,SkilledEmployee/Official,2,None,No,Good
+< 0 DM,12,All Credits Paid (this bank),Retraining,339,<100,>=7,4,Male (Married/Widowed),none,1,car or other,45,Bank,Own,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,24,Existing Credits Paid Back,New Car,3512,100 - 500,4 to 7,2,Male (Single),none,3,car or other,38,Bank,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,6,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1898,Unknown/ No Saving Ac,1 to 4,1,Male (Single),none,2,Real Estate,34,none,Own,2,Unskilled Resident,2,None,Yes,Good
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Radio/TV,2872,100 - 500,>=7,3,Male (Single),none,4,Real Estate,36,none,Own,1,SkilledEmployee/Official,2,Yes,Yes,Good
+No Checking Account,18,Critical Account/Other Credit Existing(Not this bank),New Car,1055,<100,<1,4,Female (Div/Sep/Married),none,1,Society Saving/ Life Insurance,30,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,15,Existing Credits Paid Back,Domestic Appliances,1262,500 - 1000,4 to 7,4,Male (Single),none,3,Society Saving/ Life Insurance,36,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,10,Existing Credits Paid Back,New Car,7308,<100,unemployed,2,Male (Single),none,4,Unknown/ No property,70,Bank,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,36,Existing Credits Paid Back,New Car,909,500 - 1000,>=7,4,Male (Single),none,4,Society Saving/ Life Insurance,36,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,6,Existing Credits Paid Back,Furniture/Equipment,2978,500 - 1000,1 to 4,1,Male (Single),none,2,car or other,32,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,18,Existing Credits Paid Back,Furniture/Equipment,1131,<100,unemployed,4,Female (Div/Sep/Married),none,2,car or other,33,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,11,Existing Credits Paid Back,Furniture/Equipment,1577,>=1000,<1,4,Female (Div/Sep/Married),none,1,Real Estate,20,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Furniture/Equipment,3972,<100,4 to 7,2,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,25,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,24,Critical Account/Other Credit Existing(Not this bank),Business,1935,<100,>=7,4,Male (Div/Sep/Married),none,4,Real Estate,31,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+< 0 DM,15,No Credits taken/ All Credits Paid,New Car,950,<100,>=7,4,Male (Single),none,3,car or other,33,none,Rent,2,SkilledEmployee/Official,2,None,Yes,Bad
+No Checking Account,12,Existing Credits Paid Back,Furniture/Equipment,763,<100,1 to 4,4,Female (Div/Sep/Married),none,1,Real Estate,26,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,24,Delay in Payment in past,Furniture/Equipment,2064,<100,unemployed,3,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,34,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+0 - 20 DM,8,Existing Credits Paid Back,Radio/TV,1414,<100,1 to 4,4,Male (Single),guarantor,2,Real Estate,33,none,Own,1,SkilledEmployee/Official,1,None,No,Good
+< 0 DM,21,Delay in Payment in past,Education,3414,<100,<1,2,Male (Single),none,1,Society Saving/ Life Insurance,26,none,Own,2,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,30,All Credits Paid (this bank),Used Car,7485,Unknown/ No Saving Ac,unemployed,4,Female (Div/Sep/Married),none,1,Real Estate,53,Bank,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+< 0 DM,12,Existing Credits Paid Back,Furniture/Equipment,2577,<100,1 to 4,2,Male (Div/Sep/Married),none,1,car or other,42,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,6,Critical Account/Other Credit Existing(Not this bank),Radio/TV,338,500 - 1000,>=7,4,Male (Single),none,4,car or other,52,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,Radio/TV,1963,<100,4 to 7,4,Male (Single),none,2,car or other,31,none,Rent,2,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Good
+< 0 DM,21,Critical Account/Other Credit Existing(Not this bank),New Car,571,<100,>=7,4,Male (Single),none,4,Real Estate,65,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,36,Delay in Payment in past,Business,9572,<100,<1,1,Male (Div/Sep/Married),none,1,car or other,28,none,Own,2,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,36,Delay in Payment in past,Business,4455,<100,1 to 4,2,Male (Div/Sep/Married),none,2,Real Estate,30,Stores,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+< 0 DM,21,All Credits Paid (this bank),New Car,1647,Unknown/ No Saving Ac,1 to 4,4,Male (Single),none,2,Society Saving/ Life Insurance,40,none,Own,2,Unskilled Resident,2,None,Yes,Bad
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,3777,>=1000,1 to 4,4,Male (Single),none,4,Real Estate,50,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,18,Critical Account/Other Credit Existing(Not this bank),New Car,884,<100,>=7,4,Male (Single),none,4,car or other,36,Bank,Own,1,SkilledEmployee/Official,2,Yes,Yes,Bad
+No Checking Account,15,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1360,<100,1 to 4,4,Male (Single),none,2,Society Saving/ Life Insurance,31,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,9,All Credits Paid (this bank),Used Car,5129,<100,>=7,2,Female (Div/Sep/Married),none,4,Unknown/ No property,74,Bank,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Bad
+0 - 20 DM,16,Critical Account/Other Credit Existing(Not this bank),New Car,1175,<100,unemployed,2,Male (Single),none,3,car or other,68,none,For Free,3,UnEmp - NR,1,Yes,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,Radio/TV,674,100 - 500,4 to 7,4,Male (Married/Widowed),none,1,Society Saving/ Life Insurance,20,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,18,No Credits taken/ All Credits Paid,Furniture/Equipment,3244,<100,1 to 4,1,Female (Div/Sep/Married),none,4,car or other,33,Bank,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Business,4591,>=1000,1 to 4,2,Male (Single),none,3,Society Saving/ Life Insurance,54,none,Own,3,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+0 - 20 DM,48,No Credits taken/ All Credits Paid,Business,3844,100 - 500,4 to 7,4,Male (Single),none,4,Unknown/ No property,34,none,For Free,1,Unskilled Resident,2,None,Yes,Bad
+0 - 20 DM,27,Existing Credits Paid Back,Business,3915,<100,1 to 4,4,Male (Single),none,2,car or other,36,none,Own,1,SkilledEmployee/Official,2,Yes,Yes,Bad
+No Checking Account,6,Existing Credits Paid Back,Radio/TV,2108,<100,4 to 7,2,Male (Married/Widowed),none,2,Real Estate,29,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,45,Existing Credits Paid Back,Radio/TV,3031,100 - 500,1 to 4,4,Male (Single),guarantor,4,Society Saving/ Life Insurance,21,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,9,Critical Account/Other Credit Existing(Not this bank),Education,1501,<100,>=7,2,Female (Div/Sep/Married),none,3,car or other,34,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,6,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1382,<100,1 to 4,1,Female (Div/Sep/Married),none,1,car or other,28,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Furniture/Equipment,951,100 - 500,<1,4,Female (Div/Sep/Married),none,4,car or other,27,Bank,Rent,4,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,24,Existing Credits Paid Back,Used Car,2760,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Unknown/ No property,36,Bank,For Free,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,18,Delay in Payment in past,Furniture/Equipment,4297,<100,>=7,4,Male (Div/Sep/Married),none,3,Unknown/ No property,40,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,9,Critical Account/Other Credit Existing(Not this bank),Education,936,500 - 1000,>=7,4,Male (Single),none,2,car or other,52,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,New Car,1168,<100,1 to 4,4,Male (Married/Widowed),none,3,Real Estate,27,none,Own,1,Unskilled Resident,1,None,Yes,Good
+No Checking Account,27,Delay in Payment in past,Business,5117,<100,4 to 7,3,Male (Single),none,4,car or other,26,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,Retraining,902,<100,4 to 7,4,Male (Married/Widowed),none,4,Society Saving/ Life Insurance,21,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),New Car,1495,<100,>=7,4,Male (Single),none,1,Real Estate,38,none,Own,2,Unskilled Resident,2,None,Yes,Good
+< 0 DM,30,Critical Account/Other Credit Existing(Not this bank),Used Car,10623,<100,>=7,3,Male (Single),none,4,Unknown/ No property,38,none,For Free,3,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,1935,<100,>=7,4,Male (Single),none,4,Real Estate,43,none,Own,3,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,12,Critical Account/Other Credit Existing(Not this bank),Domestic Appliances,1424,<100,4 to 7,4,Male (Single),none,3,Society Saving/ Life Insurance,26,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,24,Existing Credits Paid Back,Business,6568,<100,1 to 4,2,Male (Married/Widowed),none,2,car or other,21,Stores,Own,1,Unskilled Resident,1,None,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,Used Car,1413,>=1000,4 to 7,3,Male (Single),none,2,Society Saving/ Life Insurance,55,none,Own,1,SkilledEmployee/Official,1,None,No,Good
+No Checking Account,9,Critical Account/Other Credit Existing(Not this bank),Radio/TV,3074,Unknown/ No Saving Ac,1 to 4,1,Male (Single),none,2,Real Estate,33,none,Own,2,SkilledEmployee/Official,2,None,Yes,Good
+No Checking Account,36,Existing Credits Paid Back,Radio/TV,3835,Unknown/ No Saving Ac,>=7,2,Female (Div/Sep/Married),none,4,Real Estate,45,none,Own,1,Unskilled Resident,1,Yes,Yes,Good
+< 0 DM,27,No Credits taken/ All Credits Paid,Business,5293,<100,unemployed,2,Male (Single),none,4,Society Saving/ Life Insurance,50,Stores,Own,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+>= 200 DM,30,Delay in Payment in past,Business,1908,<100,>=7,4,Male (Single),none,4,Real Estate,66,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,36,Critical Account/Other Credit Existing(Not this bank),Radio/TV,3342,Unknown/ No Saving Ac,>=7,4,Male (Single),none,2,car or other,51,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,6,Critical Account/Other Credit Existing(Not this bank),Retraining,932,Unknown/ No Saving Ac,4 to 7,1,Female (Div/Sep/Married),none,3,Society Saving/ Life Insurance,39,none,Own,2,Unskilled Resident,1,None,Yes,Good
+< 0 DM,18,No Credits taken/ All Credits Paid,Business,3104,<100,4 to 7,3,Male (Single),none,1,Society Saving/ Life Insurance,31,Bank,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+>= 200 DM,36,Existing Credits Paid Back,Radio/TV,3913,<100,1 to 4,2,Male (Single),none,2,Real Estate,23,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,24,Existing Credits Paid Back,Furniture/Equipment,3021,<100,1 to 4,2,Male (Div/Sep/Married),none,2,Real Estate,24,none,Rent,1,Unskilled Resident,1,None,Yes,Good
+No Checking Account,10,Existing Credits Paid Back,New Car,1364,<100,1 to 4,2,Female (Div/Sep/Married),none,4,car or other,64,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Radio/TV,625,<100,<1,4,Male (Married/Widowed),guarantor,1,Real Estate,26,Bank,Own,1,Unskilled Resident,1,None,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,Education,1200,Unknown/ No Saving Ac,1 to 4,4,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,23,Bank,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,Radio/TV,707,<100,1 to 4,4,Male (Single),none,2,Real Estate,30,Bank,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,24,Delay in Payment in past,Business,2978,Unknown/ No Saving Ac,1 to 4,4,Male (Single),none,4,Real Estate,32,none,Own,2,SkilledEmployee/Official,2,Yes,Yes,Good
+No Checking Account,15,Existing Credits Paid Back,Used Car,4657,<100,1 to 4,3,Male (Single),none,2,car or other,30,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,36,No Credits taken/ All Credits Paid,Repairs,2613,<100,1 to 4,4,Male (Single),none,2,car or other,27,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,48,Existing Credits Paid Back,Radio/TV,10961,>=1000,4 to 7,1,Male (Single),co-applicant,2,Unknown/ No property,27,Bank,Own,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+< 0 DM,12,Existing Credits Paid Back,Furniture/Equipment,7865,<100,>=7,4,Male (Single),none,4,Unknown/ No property,53,none,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,9,Existing Credits Paid Back,Radio/TV,1478,<100,4 to 7,4,Male (Single),none,2,car or other,22,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,24,Existing Credits Paid Back,Furniture/Equipment,3149,<100,<1,4,Male (Single),none,1,Unknown/ No property,22,Bank,For Free,1,SkilledEmployee/Official,1,None,Yes,Good
+>= 200 DM,36,Existing Credits Paid Back,Radio/TV,4210,<100,1 to 4,4,Male (Single),none,2,car or other,26,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,9,Existing Credits Paid Back,New Car,2507,500 - 1000,>=7,2,Male (Single),none,4,Unknown/ No property,51,none,For Free,1,Unskilled Resident,1,None,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,Radio/TV,2141,100 - 500,4 to 7,3,Male (Single),none,1,Unknown/ No property,35,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,18,Existing Credits Paid Back,Radio/TV,866,<100,1 to 4,4,Male (Married/Widowed),guarantor,2,Real Estate,25,none,Own,1,Unskilled Resident,1,None,Yes,Good
+No Checking Account,4,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1544,<100,4 to 7,2,Male (Single),none,1,Real Estate,42,none,Own,3,Unskilled Resident,2,None,Yes,Good
+< 0 DM,24,Existing Credits Paid Back,Radio/TV,1823,<100,unemployed,4,Male (Single),none,2,car or other,30,Stores,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,2,None,Yes,Bad
+0 - 20 DM,6,Existing Credits Paid Back,New Car,14555,Unknown/ No Saving Ac,unemployed,1,Male (Single),none,2,Society Saving/ Life Insurance,23,none,Own,1,UnEmp - NR,1,Yes,Yes,Bad
+0 - 20 DM,21,Existing Credits Paid Back,Business,2767,100 - 500,>=7,4,Male (Div/Sep/Married),none,2,car or other,61,Bank,Rent,2,Unskilled Resident,1,None,Yes,Bad
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1291,<100,1 to 4,4,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,35,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,30,Existing Credits Paid Back,Radio/TV,2522,<100,>=7,1,Male (Single),guarantor,3,Society Saving/ Life Insurance,39,none,Own,1,SkilledEmployee/Official,2,None,Yes,Good
+< 0 DM,24,Existing Credits Paid Back,New Car,915,Unknown/ No Saving Ac,>=7,4,Female (Div/Sep/Married),none,2,car or other,29,Bank,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,6,Existing Credits Paid Back,Radio/TV,1595,<100,4 to 7,3,Male (Single),none,2,Society Saving/ Life Insurance,51,none,Own,1,SkilledEmployee/Official,2,None,Yes,Good
+< 0 DM,48,No Credits taken/ All Credits Paid,Used Car,4605,<100,>=7,3,Male (Single),none,4,Unknown/ No property,24,none,For Free,2,SkilledEmployee/Official,2,None,Yes,Bad
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Business,1185,<100,1 to 4,3,Female (Div/Sep/Married),none,2,Real Estate,27,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,12,All Credits Paid (this bank),Retraining,3447,500 - 1000,1 to 4,4,Female (Div/Sep/Married),none,3,Real Estate,35,none,Own,1,Unskilled Resident,2,None,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Business,1258,<100,4 to 7,4,Male (Single),none,1,Real Estate,25,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Radio/TV,717,<100,>=7,4,Male (Single),none,4,Real Estate,52,none,Own,3,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,6,No Credits taken/ All Credits Paid,New Car,1204,100 - 500,1 to 4,4,Male (Single),none,1,Unknown/ No property,35,Bank,Rent,1,SkilledEmployee/Official,1,None,No,Good
+>= 200 DM,24,Existing Credits Paid Back,Furniture/Equipment,1925,<100,1 to 4,2,Male (Single),none,2,Real Estate,26,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,18,Existing Credits Paid Back,Radio/TV,433,<100,unemployed,3,Female (Div/Sep/Married),co-applicant,4,Real Estate,22,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,6,Critical Account/Other Credit Existing(Not this bank),New Car,666,>=1000,4 to 7,3,Female (Div/Sep/Married),none,4,Real Estate,39,none,Own,2,Unskilled Resident,1,Yes,Yes,Good
+>= 200 DM,12,Existing Credits Paid Back,Furniture/Equipment,2251,<100,1 to 4,1,Female (Div/Sep/Married),none,2,car or other,46,none,Own,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,30,Existing Credits Paid Back,New Car,2150,<100,1 to 4,4,Female (Div/Sep/Married),guarantor,2,Unknown/ No property,24,Bank,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,24,Delay in Payment in past,Furniture/Equipment,4151,100 - 500,1 to 4,2,Male (Single),none,3,Society Saving/ Life Insurance,35,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,9,Existing Credits Paid Back,Furniture/Equipment,2030,Unknown/ No Saving Ac,4 to 7,2,Male (Single),none,1,car or other,24,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,60,Delay in Payment in past,Radio/TV,7418,Unknown/ No Saving Ac,1 to 4,1,Male (Single),none,1,Real Estate,27,none,Own,1,Unskilled Resident,1,None,Yes,Good
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Radio/TV,2684,<100,1 to 4,4,Male (Single),none,2,Real Estate,35,none,Own,2,Unskilled Resident,1,None,Yes,Good
+< 0 DM,12,All Credits Paid (this bank),Radio/TV,2149,<100,1 to 4,4,Male (Div/Sep/Married),none,1,Unknown/ No property,29,none,For Free,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,15,Existing Credits Paid Back,Used Car,3812,100 - 500,<1,1,Female (Div/Sep/Married),none,4,car or other,23,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,11,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1154,100 - 500,unemployed,4,Female (Div/Sep/Married),none,4,Real Estate,57,none,Own,3,Unskilled Resident,1,None,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,Furniture/Equipment,1657,<100,1 to 4,2,Male (Single),none,2,Real Estate,27,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,24,Existing Credits Paid Back,Radio/TV,1603,<100,>=7,4,Female (Div/Sep/Married),none,4,car or other,55,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,18,Critical Account/Other Credit Existing(Not this bank),New Car,5302,<100,>=7,2,Male (Single),none,4,Unknown/ No property,36,none,For Free,3,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Education,2748,<100,>=7,2,Female (Div/Sep/Married),none,4,Unknown/ No property,57,Bank,For Free,3,Unskilled Resident,1,None,Yes,Good
+No Checking Account,10,Critical Account/Other Credit Existing(Not this bank),New Car,1231,<100,>=7,3,Male (Single),none,4,Real Estate,32,none,Own,2,Unskilled Resident,2,None,No,Good
+0 - 20 DM,15,Existing Credits Paid Back,Radio/TV,802,<100,>=7,4,Male (Single),none,3,car or other,37,none,Own,1,SkilledEmployee/Official,2,None,Yes,Bad
+No Checking Account,36,Critical Account/Other Credit Existing(Not this bank),Business,6304,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Real Estate,36,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Radio/TV,1533,<100,<1,4,Female (Div/Sep/Married),none,3,car or other,38,Stores,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,14,Existing Credits Paid Back,New Car,8978,<100,>=7,1,Male (Div/Sep/Married),none,4,Society Saving/ Life Insurance,45,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,No,Bad
+No Checking Account,24,Existing Credits Paid Back,Radio/TV,999,Unknown/ No Saving Ac,>=7,4,Male (Single),none,2,car or other,25,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,18,Existing Credits Paid Back,New Car,2662,Unknown/ No Saving Ac,4 to 7,4,Male (Single),none,3,Society Saving/ Life Insurance,32,none,Own,1,SkilledEmployee/Official,1,None,No,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,1402,500 - 1000,4 to 7,3,Female (Div/Sep/Married),none,4,car or other,37,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,48,All Credits Paid (this bank),New Car,12169,Unknown/ No Saving Ac,unemployed,4,Male (Single),co-applicant,4,Unknown/ No property,36,none,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,48,Existing Credits Paid Back,Radio/TV,3060,<100,4 to 7,4,Male (Single),none,4,Real Estate,28,none,Own,2,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,30,Existing Credits Paid Back,Repairs,11998,<100,<1,1,Male (Div/Sep/Married),none,1,Unknown/ No property,34,none,Own,1,Unskilled Resident,1,Yes,Yes,Bad
+No Checking Account,9,Existing Credits Paid Back,Radio/TV,2697,<100,1 to 4,1,Male (Single),none,2,Real Estate,32,none,Own,1,SkilledEmployee/Official,2,None,Yes,Good
+No Checking Account,18,Critical Account/Other Credit Existing(Not this bank),Radio/TV,2404,<100,1 to 4,2,Female (Div/Sep/Married),none,2,car or other,26,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,Furniture/Equipment,1262,Unknown/ No Saving Ac,>=7,2,Male (Div/Sep/Married),none,4,Society Saving/ Life Insurance,49,none,Own,1,Unskilled Resident,1,Yes,Yes,Good
+No Checking Account,6,Existing Credits Paid Back,Furniture/Equipment,4611,<100,<1,1,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,32,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,24,Existing Credits Paid Back,Radio/TV,1901,100 - 500,1 to 4,4,Male (Single),none,4,car or other,29,none,Rent,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,15,Critical Account/Other Credit Existing(Not this bank),Used Car,3368,>=1000,>=7,3,Male (Single),none,4,Unknown/ No property,23,none,Rent,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,Furniture/Equipment,1574,<100,1 to 4,4,Male (Single),none,2,Real Estate,50,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+>= 200 DM,18,All Credits Paid (this bank),Radio/TV,1445,Unknown/ No Saving Ac,4 to 7,4,Male (Single),none,4,car or other,49,Bank,Own,1,Unskilled Resident,1,None,Yes,Good
+No Checking Account,15,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,1520,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Society Saving/ Life Insurance,63,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,24,Critical Account/Other Credit Existing(Not this bank),New Car,3878,100 - 500,<1,4,Male (Div/Sep/Married),none,2,car or other,37,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,47,Existing Credits Paid Back,New Car,10722,<100,<1,1,Female (Div/Sep/Married),none,1,Real Estate,35,none,Own,1,Unskilled Resident,1,Yes,Yes,Good
+< 0 DM,48,Existing Credits Paid Back,Used Car,4788,<100,4 to 7,4,Male (Single),none,3,Society Saving/ Life Insurance,26,none,Own,1,SkilledEmployee/Official,2,None,Yes,Good
+0 - 20 DM,48,Delay in Payment in past,others,7582,100 - 500,unemployed,2,Male (Single),none,4,Unknown/ No property,31,none,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Radio/TV,1092,<100,1 to 4,4,Female (Div/Sep/Married),guarantor,4,Real Estate,49,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,24,Delay in Payment in past,Radio/TV,1024,<100,<1,4,Male (Married/Widowed),none,4,Real Estate,48,Stores,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,12,Existing Credits Paid Back,Business,1076,<100,1 to 4,2,Male (Married/Widowed),none,2,Real Estate,26,none,Own,1,SkilledEmployee/Official,1,Yes,No,Good
+0 - 20 DM,36,Existing Credits Paid Back,Used Car,9398,<100,<1,1,Male (Married/Widowed),none,4,car or other,28,none,Rent,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+< 0 DM,24,Critical Account/Other Credit Existing(Not this bank),Used Car,6419,<100,>=7,2,Female (Div/Sep/Married),none,4,Unknown/ No property,44,none,For Free,2,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Good
+>= 200 DM,42,Critical Account/Other Credit Existing(Not this bank),Used Car,4796,<100,>=7,4,Male (Single),none,4,Unknown/ No property,56,none,For Free,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,48,Critical Account/Other Credit Existing(Not this bank),Business,7629,Unknown/ No Saving Ac,>=7,4,Male (Div/Sep/Married),none,2,car or other,46,Bank,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,2,None,Yes,Good
+0 - 20 DM,48,Existing Credits Paid Back,Furniture/Equipment,9960,<100,<1,1,Female (Div/Sep/Married),none,2,car or other,26,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,12,Existing Credits Paid Back,Used Car,4675,Unknown/ No Saving Ac,<1,1,Female (Div/Sep/Married),none,4,car or other,20,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,10,Existing Credits Paid Back,New Car,1287,Unknown/ No Saving Ac,>=7,4,Male (Single),co-applicant,2,Society Saving/ Life Insurance,45,none,Own,1,Unskilled Resident,1,None,No,Good
+No Checking Account,18,Existing Credits Paid Back,Furniture/Equipment,2515,<100,1 to 4,3,Male (Single),none,4,Real Estate,43,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,21,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,2745,>=1000,4 to 7,3,Male (Single),none,2,car or other,32,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,6,Existing Credits Paid Back,New Car,672,<100,unemployed,1,Female (Div/Sep/Married),none,4,Real Estate,54,none,Own,1,UnEmp - NR,1,Yes,Yes,Good
+0 - 20 DM,36,No Credits taken/ All Credits Paid,Radio/TV,3804,<100,1 to 4,4,Female (Div/Sep/Married),none,1,car or other,42,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+>= 200 DM,24,Critical Account/Other Credit Existing(Not this bank),New Car,1344,Unknown/ No Saving Ac,4 to 7,4,Male (Single),none,2,Real Estate,37,Bank,Own,2,Unskilled Resident,2,None,Yes,Bad
+< 0 DM,10,Critical Account/Other Credit Existing(Not this bank),New Car,1038,<100,4 to 7,4,Male (Single),co-applicant,3,Society Saving/ Life Insurance,49,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,48,Critical Account/Other Credit Existing(Not this bank),New Car,10127,500 - 1000,1 to 4,2,Male (Single),none,2,Unknown/ No property,44,Bank,For Free,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,6,Existing Credits Paid Back,Furniture/Equipment,1543,>=1000,1 to 4,4,Male (Div/Sep/Married),none,2,Real Estate,33,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,30,Existing Credits Paid Back,Used Car,4811,Unknown/ No Saving Ac,4 to 7,2,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,24,Stores,Rent,1,Unskilled Resident,1,None,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,Radio/TV,727,100 - 500,<1,4,Male (Married/Widowed),none,3,Unknown/ No property,33,none,Own,1,Unskilled Resident,1,Yes,Yes,Bad
+0 - 20 DM,8,Existing Credits Paid Back,Furniture/Equipment,1237,<100,1 to 4,3,Female (Div/Sep/Married),none,4,Real Estate,24,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,9,Existing Credits Paid Back,New Car,276,<100,1 to 4,4,Male (Married/Widowed),none,4,Real Estate,22,none,Rent,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,48,Existing Credits Paid Back,others,5381,Unknown/ No Saving Ac,unemployed,3,Male (Single),none,4,Unknown/ No property,40,Bank,For Free,1,UnEmp - NR,1,Yes,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Furniture/Equipment,5511,100 - 500,1 to 4,4,Male (Single),none,1,car or other,25,Stores,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+>= 200 DM,24,Existing Credits Paid Back,Furniture/Equipment,3749,<100,<1,2,Female (Div/Sep/Married),none,4,car or other,26,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,New Car,685,<100,4 to 7,2,Male (Married/Widowed),none,3,car or other,25,Bank,Own,1,Unskilled Resident,1,None,Yes,Bad
+>= 200 DM,4,Existing Credits Paid Back,New Car,1494,Unknown/ No Saving Ac,<1,1,Male (Single),none,2,Real Estate,29,none,Own,1,Unskilled Resident,2,None,No,Good
+< 0 DM,36,All Credits Paid (this bank),Furniture/Equipment,2746,<100,>=7,4,Male (Single),none,4,car or other,31,Bank,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,12,Existing Credits Paid Back,Furniture/Equipment,708,<100,1 to 4,2,Male (Single),guarantor,3,Society Saving/ Life Insurance,38,none,Own,1,Unskilled Resident,2,None,Yes,Good
+0 - 20 DM,24,Existing Credits Paid Back,Furniture/Equipment,4351,Unknown/ No Saving Ac,1 to 4,1,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,48,none,Own,1,Unskilled Resident,1,Yes,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Education,701,<100,1 to 4,4,Male (Single),none,2,car or other,32,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,15,Delay in Payment in past,Furniture/Equipment,3643,<100,>=7,1,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,27,none,Own,2,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,30,Critical Account/Other Credit Existing(Not this bank),New Car,4249,<100,unemployed,4,Male (Married/Widowed),none,2,car or other,28,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Bad
+< 0 DM,24,Existing Credits Paid Back,Radio/TV,1938,<100,<1,4,Male (Div/Sep/Married),none,3,Society Saving/ Life Insurance,32,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,24,Existing Credits Paid Back,Used Car,2910,<100,4 to 7,2,Male (Single),none,1,Unknown/ No property,34,none,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,18,Existing Credits Paid Back,Furniture/Equipment,2659,>=1000,1 to 4,4,Male (Single),none,2,car or other,28,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,18,Critical Account/Other Credit Existing(Not this bank),New Car,1028,<100,1 to 4,4,Female (Div/Sep/Married),none,3,Real Estate,36,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,8,Critical Account/Other Credit Existing(Not this bank),New Car,3398,<100,4 to 7,1,Male (Single),none,4,Real Estate,39,none,Own,2,Unskilled Resident,1,None,No,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,5801,Unknown/ No Saving Ac,>=7,2,Male (Single),none,4,Society Saving/ Life Insurance,49,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,New Car,1525,>=1000,4 to 7,4,Female (Div/Sep/Married),none,3,car or other,34,none,Own,1,SkilledEmployee/Official,2,Yes,Yes,Good
+>= 200 DM,36,Existing Credits Paid Back,Radio/TV,4473,<100,>=7,4,Male (Single),none,2,car or other,31,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,6,Existing Credits Paid Back,Radio/TV,1068,<100,>=7,4,Male (Single),none,4,car or other,28,none,Own,1,SkilledEmployee/Official,2,None,Yes,Good
+< 0 DM,24,Critical Account/Other Credit Existing(Not this bank),Used Car,6615,<100,unemployed,2,Male (Single),none,4,Unknown/ No property,75,none,For Free,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,18,Critical Account/Other Credit Existing(Not this bank),Education,1864,100 - 500,1 to 4,4,Female (Div/Sep/Married),none,2,Real Estate,30,none,Own,2,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,60,Existing Credits Paid Back,New Car,7408,100 - 500,<1,4,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,24,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Bad
+No Checking Account,48,Critical Account/Other Credit Existing(Not this bank),Used Car,11590,100 - 500,1 to 4,2,Female (Div/Sep/Married),none,4,car or other,24,Bank,Rent,2,Unskilled Resident,1,None,Yes,Bad
+< 0 DM,24,No Credits taken/ All Credits Paid,Furniture/Equipment,4110,<100,>=7,3,Male (Single),none,4,Unknown/ No property,23,Bank,Rent,2,SkilledEmployee/Official,2,None,Yes,Bad
+< 0 DM,6,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,3384,<100,1 to 4,1,Male (Div/Sep/Married),none,4,Real Estate,44,none,Rent,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+0 - 20 DM,13,Existing Credits Paid Back,Radio/TV,2101,<100,<1,2,Female (Div/Sep/Married),guarantor,4,Society Saving/ Life Insurance,23,none,Own,1,Unskilled Resident,1,None,Yes,Good
+< 0 DM,15,Existing Credits Paid Back,Domestic Appliances,1275,Unknown/ No Saving Ac,1 to 4,4,Female (Div/Sep/Married),none,2,car or other,24,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,24,Existing Credits Paid Back,Furniture/Equipment,4169,<100,1 to 4,4,Male (Single),none,4,Society Saving/ Life Insurance,28,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,10,Existing Credits Paid Back,Furniture/Equipment,1521,<100,1 to 4,4,Male (Div/Sep/Married),none,2,car or other,31,none,Own,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,24,Critical Account/Other Credit Existing(Not this bank),Education,5743,<100,<1,2,Female (Div/Sep/Married),none,4,Unknown/ No property,24,none,For Free,2,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,21,Existing Credits Paid Back,Furniture/Equipment,3599,<100,4 to 7,1,Female (Div/Sep/Married),none,4,car or other,26,none,Rent,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,18,Existing Credits Paid Back,Radio/TV,3213,500 - 1000,<1,1,Male (Married/Widowed),none,3,Real Estate,25,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,18,Existing Credits Paid Back,Business,4439,<100,>=7,1,Male (Single),co-applicant,1,Real Estate,33,Bank,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+>= 200 DM,10,Existing Credits Paid Back,New Car,3949,<100,<1,1,Male (Single),guarantor,1,Society Saving/ Life Insurance,37,none,Own,1,Unskilled Resident,2,None,Yes,Good
+No Checking Account,15,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1459,<100,1 to 4,4,Female (Div/Sep/Married),none,2,car or other,43,none,Own,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,13,Critical Account/Other Credit Existing(Not this bank),Radio/TV,882,<100,<1,4,Male (Single),guarantor,4,Real Estate,23,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,24,Existing Credits Paid Back,Radio/TV,3758,500 - 1000,unemployed,1,Female (Div/Sep/Married),none,4,Unknown/ No property,23,none,Rent,1,UnEmp - NR,1,None,Yes,Good
+No Checking Account,6,Delay in Payment in past,Business,1743,100 - 500,1 to 4,1,Male (Single),none,2,Real Estate,34,none,Own,2,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,9,Critical Account/Other Credit Existing(Not this bank),Education,1136,>=1000,>=7,4,Male (Single),none,3,Unknown/ No property,32,none,For Free,2,SkilledEmployee/Official,2,None,Yes,Bad
+No Checking Account,9,Existing Credits Paid Back,Domestic Appliances,1236,<100,<1,1,Female (Div/Sep/Married),none,4,Real Estate,23,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,9,Existing Credits Paid Back,Furniture/Equipment,959,<100,1 to 4,1,Female (Div/Sep/Married),none,2,car or other,29,none,Own,1,SkilledEmployee/Official,1,None,No,Bad
+No Checking Account,18,Critical Account/Other Credit Existing(Not this bank),Used Car,3229,Unknown/ No Saving Ac,unemployed,2,Male (Single),none,4,Unknown/ No property,38,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,12,No Credits taken/ All Credits Paid,Radio/TV,6199,<100,1 to 4,4,Male (Single),none,2,Society Saving/ Life Insurance,28,none,Rent,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,10,Existing Credits Paid Back,Education,727,500 - 1000,>=7,4,Male (Single),none,4,Unknown/ No property,46,none,For Free,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,24,Existing Credits Paid Back,New Car,1246,<100,<1,4,Male (Single),none,2,Real Estate,23,Stores,Own,1,Unskilled Resident,1,None,Yes,Bad
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Radio/TV,2331,Unknown/ No Saving Ac,>=7,1,Male (Single),co-applicant,4,Real Estate,49,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,36,Delay in Payment in past,Radio/TV,4463,<100,1 to 4,4,Male (Single),none,2,car or other,26,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,12,Existing Credits Paid Back,Radio/TV,776,<100,1 to 4,4,Male (Married/Widowed),none,2,Real Estate,28,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,30,Existing Credits Paid Back,Furniture/Equipment,2406,<100,4 to 7,4,Female (Div/Sep/Married),none,4,Real Estate,23,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,18,Existing Credits Paid Back,Education,1239,Unknown/ No Saving Ac,1 to 4,4,Male (Single),none,4,Unknown/ No property,61,none,For Free,1,SkilledEmployee/Official,1,None,Yes,Good
+>= 200 DM,12,Existing Credits Paid Back,Radio/TV,3399,Unknown/ No Saving Ac,>=7,2,Male (Single),none,3,car or other,37,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Good
+>= 200 DM,12,Delay in Payment in past,New Car,2247,<100,1 to 4,2,Female (Div/Sep/Married),none,2,car or other,36,Stores,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,6,Existing Credits Paid Back,Furniture/Equipment,1766,<100,1 to 4,1,Male (Married/Widowed),none,2,Society Saving/ Life Insurance,21,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,18,Existing Credits Paid Back,Furniture/Equipment,2473,<100,unemployed,4,Male (Single),none,1,car or other,25,none,Own,1,UnEmp - NR,1,None,Yes,Bad
+No Checking Account,12,Existing Credits Paid Back,Business,1542,<100,4 to 7,2,Male (Single),none,4,car or other,36,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,18,Critical Account/Other Credit Existing(Not this bank),Used Car,3850,<100,4 to 7,3,Male (Single),none,1,car or other,27,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,18,Existing Credits Paid Back,Furniture/Equipment,3650,<100,<1,1,Female (Div/Sep/Married),none,4,car or other,22,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,36,Existing Credits Paid Back,Furniture/Equipment,3446,<100,>=7,4,Male (Single),none,2,car or other,42,none,Own,1,SkilledEmployee/Official,2,None,Yes,Bad
+0 - 20 DM,18,Existing Credits Paid Back,Furniture/Equipment,3001,<100,4 to 7,2,Female (Div/Sep/Married),none,4,Real Estate,40,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,36,Existing Credits Paid Back,New Car,3079,Unknown/ No Saving Ac,1 to 4,4,Male (Single),none,4,Real Estate,36,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,18,Critical Account/Other Credit Existing(Not this bank),Radio/TV,6070,<100,>=7,3,Male (Single),none,4,car or other,33,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,10,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,2146,<100,<1,1,Female (Div/Sep/Married),none,3,Real Estate,23,none,Rent,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,60,Critical Account/Other Credit Existing(Not this bank),New Car,13756,Unknown/ No Saving Ac,>=7,2,Male (Single),none,4,Unknown/ No property,63,Bank,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,60,All Credits Paid (this bank),others,14782,100 - 500,>=7,3,Female (Div/Sep/Married),none,4,Unknown/ No property,60,Bank,For Free,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+< 0 DM,48,All Credits Paid (this bank),Business,7685,<100,4 to 7,2,Female (Div/Sep/Married),guarantor,4,car or other,37,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,18,Delay in Payment in past,Radio/TV,2320,<100,unemployed,2,Male (Married/Widowed),none,3,Real Estate,34,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,7,Delay in Payment in past,Radio/TV,846,Unknown/ No Saving Ac,>=7,3,Male (Single),none,4,Unknown/ No property,36,none,For Free,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,36,Existing Credits Paid Back,New Car,14318,<100,>=7,4,Male (Single),none,2,Unknown/ No property,57,none,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,6,Critical Account/Other Credit Existing(Not this bank),New Car,362,100 - 500,1 to 4,4,Female (Div/Sep/Married),none,4,car or other,52,none,Own,2,Unskilled Resident,1,None,Yes,Good
+< 0 DM,20,Existing Credits Paid Back,Furniture/Equipment,2212,Unknown/ No Saving Ac,4 to 7,4,Male (Single),none,4,car or other,39,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,18,Existing Credits Paid Back,Used Car,12976,<100,unemployed,3,Female (Div/Sep/Married),none,4,Unknown/ No property,38,none,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,22,Existing Credits Paid Back,New Car,1283,Unknown/ No Saving Ac,4 to 7,4,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,25,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+>= 200 DM,12,Existing Credits Paid Back,New Car,1330,<100,<1,4,Male (Single),none,1,Real Estate,26,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,30,Delay in Payment in past,Business,4272,100 - 500,1 to 4,2,Male (Single),none,2,Society Saving/ Life Insurance,26,none,Own,2,Unskilled Resident,1,None,Yes,Good
+No Checking Account,18,Critical Account/Other Credit Existing(Not this bank),Radio/TV,2238,<100,1 to 4,2,Female (Div/Sep/Married),none,1,car or other,25,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,18,Existing Credits Paid Back,Radio/TV,1126,Unknown/ No Saving Ac,<1,4,Female (Div/Sep/Married),none,2,Real Estate,21,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,18,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,7374,<100,unemployed,4,Male (Single),none,4,Society Saving/ Life Insurance,40,Stores,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,15,Critical Account/Other Credit Existing(Not this bank),Business,2326,500 - 1000,1 to 4,2,Male (Single),none,4,car or other,27,Bank,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,9,Existing Credits Paid Back,Business,1449,<100,4 to 7,3,Female (Div/Sep/Married),none,2,car or other,27,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,18,Existing Credits Paid Back,New Car,1820,<100,1 to 4,2,Male (Married/Widowed),none,2,Society Saving/ Life Insurance,30,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Furniture/Equipment,983,>=1000,<1,1,Female (Div/Sep/Married),none,4,Real Estate,19,none,Rent,1,Unskilled Resident,1,None,Yes,Good
+< 0 DM,36,Existing Credits Paid Back,New Car,3249,<100,4 to 7,2,Male (Single),none,4,Unknown/ No property,39,Bank,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Good
+< 0 DM,6,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1957,<100,4 to 7,1,Female (Div/Sep/Married),none,4,car or other,31,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,9,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,2406,<100,unemployed,2,Male (Single),none,3,car or other,31,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Good
+0 - 20 DM,39,Delay in Payment in past,Education,11760,100 - 500,4 to 7,2,Male (Single),none,3,Unknown/ No property,32,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,Furniture/Equipment,2578,<100,unemployed,3,Female (Div/Sep/Married),none,4,Unknown/ No property,55,none,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Good
+< 0 DM,36,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,2348,<100,1 to 4,3,Male (Married/Widowed),none,2,Society Saving/ Life Insurance,46,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,New Car,1223,<100,>=7,1,Male (Div/Sep/Married),none,1,Real Estate,46,none,Rent,2,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1516,>=1000,1 to 4,4,Female (Div/Sep/Married),none,1,Real Estate,43,none,Own,2,Unskilled Resident,1,None,Yes,Good
+No Checking Account,18,Existing Credits Paid Back,Radio/TV,1473,<100,<1,3,Male (Married/Widowed),none,4,Real Estate,39,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,18,Critical Account/Other Credit Existing(Not this bank),Business,1887,Unknown/ No Saving Ac,1 to 4,4,Male (Married/Widowed),none,4,Real Estate,28,Bank,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,24,Delay in Payment in past,Business,8648,<100,<1,2,Male (Single),none,2,car or other,27,Bank,Own,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,14,Delay in Payment in past,New Car,802,<100,1 to 4,4,Male (Single),none,2,car or other,27,none,Own,2,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,18,Delay in Payment in past,New Car,2899,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,car or other,43,none,Own,1,SkilledEmployee/Official,2,None,Yes,Good
+0 - 20 DM,24,Existing Credits Paid Back,Radio/TV,2039,<100,<1,1,Male (Married/Widowed),none,1,Society Saving/ Life Insurance,22,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Used Car,2197,Unknown/ No Saving Ac,4 to 7,4,Male (Single),none,4,car or other,43,none,Own,2,SkilledEmployee/Official,2,Yes,Yes,Good
+< 0 DM,15,Existing Credits Paid Back,Radio/TV,1053,<100,<1,4,Male (Married/Widowed),none,2,Real Estate,27,none,Own,1,SkilledEmployee/Official,1,None,No,Good
+No Checking Account,24,Existing Credits Paid Back,Radio/TV,3235,500 - 1000,>=7,3,Male (Div/Sep/Married),none,2,car or other,26,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+>= 200 DM,12,Critical Account/Other Credit Existing(Not this bank),New Car,939,500 - 1000,4 to 7,4,Male (Married/Widowed),none,2,Real Estate,28,none,Own,3,SkilledEmployee/Official,1,Yes,Yes,Bad
+0 - 20 DM,24,Existing Credits Paid Back,Radio/TV,1967,<100,>=7,4,Female (Div/Sep/Married),none,4,car or other,20,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,33,Critical Account/Other Credit Existing(Not this bank),Used Car,7253,<100,4 to 7,3,Male (Single),none,2,car or other,35,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Business,2292,<100,unemployed,4,Male (Single),none,2,car or other,42,Stores,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,10,Existing Credits Paid Back,New Car,1597,500 - 1000,1 to 4,3,Male (Single),none,2,Unknown/ No property,40,none,Rent,1,Unskilled Resident,2,None,No,Good
+< 0 DM,24,Existing Credits Paid Back,New Car,1381,Unknown/ No Saving Ac,1 to 4,4,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,35,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,36,Critical Account/Other Credit Existing(Not this bank),Used Car,5842,<100,>=7,2,Male (Single),none,2,Society Saving/ Life Insurance,35,none,Own,2,SkilledEmployee/Official,2,Yes,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,New Car,2579,<100,<1,4,Male (Single),none,1,Real Estate,33,none,Own,1,Unskilled Resident,2,None,Yes,Bad
+< 0 DM,18,Delay in Payment in past,Education,8471,Unknown/ No Saving Ac,1 to 4,1,Female (Div/Sep/Married),none,2,car or other,23,none,Rent,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,21,Existing Credits Paid Back,New Car,2782,500 - 1000,4 to 7,1,Female (Div/Sep/Married),none,2,car or other,31,Bank,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Good
+0 - 20 DM,18,Existing Credits Paid Back,New Car,1042,Unknown/ No Saving Ac,1 to 4,4,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,33,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,15,Existing Credits Paid Back,New Car,3186,>=1000,4 to 7,2,Female (Div/Sep/Married),none,3,car or other,20,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Used Car,2028,Unknown/ No Saving Ac,1 to 4,4,Male (Single),none,2,car or other,30,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,12,Critical Account/Other Credit Existing(Not this bank),New Car,958,<100,4 to 7,2,Male (Single),none,3,Real Estate,47,none,Own,2,Unskilled Resident,2,None,Yes,Good
+No Checking Account,21,Delay in Payment in past,Furniture/Equipment,1591,100 - 500,4 to 7,4,Male (Single),none,3,Real Estate,34,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Furniture/Equipment,2762,Unknown/ No Saving Ac,>=7,1,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,25,Bank,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+0 - 20 DM,18,Existing Credits Paid Back,Used Car,2779,<100,1 to 4,1,Male (Married/Widowed),none,3,car or other,21,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,28,Critical Account/Other Credit Existing(Not this bank),Radio/TV,2743,<100,>=7,4,Male (Single),none,2,car or other,29,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,18,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1149,>=1000,1 to 4,4,Male (Single),none,3,Real Estate,46,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,9,Existing Credits Paid Back,Furniture/Equipment,1313,<100,>=7,1,Male (Single),none,4,car or other,20,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,18,Critical Account/Other Credit Existing(Not this bank),Repairs,1190,<100,unemployed,2,Female (Div/Sep/Married),none,4,Unknown/ No property,55,none,For Free,3,UnEmp - NR,2,None,Yes,Bad
+No Checking Account,5,Existing Credits Paid Back,Business,3448,<100,4 to 7,1,Male (Single),none,4,Real Estate,74,none,Own,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,24,Existing Credits Paid Back,others,11328,<100,1 to 4,2,Male (Single),co-applicant,3,car or other,29,Bank,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+< 0 DM,6,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,1872,<100,unemployed,4,Male (Single),none,4,Unknown/ No property,36,none,For Free,3,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Repairs,2058,<100,1 to 4,4,Male (Div/Sep/Married),none,2,Real Estate,33,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,9,Existing Credits Paid Back,Furniture/Equipment,2136,<100,1 to 4,3,Male (Single),none,2,Real Estate,25,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Radio/TV,1484,Unknown/ No Saving Ac,1 to 4,2,Male (Married/Widowed),none,1,Real Estate,25,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,6,Existing Credits Paid Back,Repairs,660,500 - 1000,4 to 7,2,Male (Married/Widowed),none,4,Real Estate,23,none,Rent,1,Unskilled Resident,1,None,Yes,Good
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),New Car,1287,>=1000,>=7,4,Female (Div/Sep/Married),none,4,Real Estate,37,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,42,Critical Account/Other Credit Existing(Not this bank),Repairs,3394,<100,unemployed,4,Male (Single),co-applicant,4,car or other,65,none,Own,2,UnEmp - NR,1,None,Yes,Good
+>= 200 DM,12,All Credits Paid (this bank),Business,609,<100,<1,4,Female (Div/Sep/Married),none,1,Real Estate,26,none,Own,1,UnEmp - NR,1,None,Yes,Bad
+No Checking Account,12,Existing Credits Paid Back,New Car,1884,<100,>=7,4,Male (Single),none,4,car or other,39,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,Furniture/Equipment,1620,<100,1 to 4,2,Female (Div/Sep/Married),co-applicant,3,Society Saving/ Life Insurance,30,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,20,Delay in Payment in past,others,2629,<100,1 to 4,2,Male (Single),none,3,car or other,29,Bank,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,Education,719,<100,>=7,4,Male (Single),none,4,car or other,41,Bank,Own,1,Unskilled Resident,2,None,Yes,Bad
+0 - 20 DM,48,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,5096,<100,1 to 4,2,Female (Div/Sep/Married),none,3,car or other,30,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,9,Critical Account/Other Credit Existing(Not this bank),Education,1244,Unknown/ No Saving Ac,>=7,4,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,41,none,Rent,2,Unskilled Resident,1,None,Yes,Good
+< 0 DM,36,Existing Credits Paid Back,New Car,1842,<100,<1,4,Female (Div/Sep/Married),none,4,car or other,34,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+0 - 20 DM,7,Existing Credits Paid Back,Radio/TV,2576,<100,1 to 4,2,Male (Single),guarantor,2,Real Estate,35,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+>= 200 DM,12,Existing Credits Paid Back,Furniture/Equipment,1424,Unknown/ No Saving Ac,>=7,3,Female (Div/Sep/Married),none,4,Real Estate,55,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,15,Delay in Payment in past,Repairs,1512,>=1000,1 to 4,3,Male (Married/Widowed),none,3,Society Saving/ Life Insurance,61,Stores,Own,2,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,36,Critical Account/Other Credit Existing(Not this bank),Used Car,11054,Unknown/ No Saving Ac,1 to 4,4,Male (Single),none,2,car or other,30,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,6,Existing Credits Paid Back,Radio/TV,518,<100,1 to 4,3,Female (Div/Sep/Married),none,1,Real Estate,29,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,12,No Credits taken/ All Credits Paid,Furniture/Equipment,2759,<100,>=7,2,Male (Single),none,4,Society Saving/ Life Insurance,34,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Used Car,2670,<100,>=7,4,Male (Single),none,4,car or other,35,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,24,Existing Credits Paid Back,New Car,4817,<100,4 to 7,2,Male (Single),co-applicant,3,Society Saving/ Life Insurance,31,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,24,Existing Credits Paid Back,Used Car,2679,<100,<1,4,Female (Div/Sep/Married),none,1,Unknown/ No property,29,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,11,Critical Account/Other Credit Existing(Not this bank),New Car,3905,<100,1 to 4,2,Male (Single),none,2,Real Estate,36,none,Rent,2,SkilledEmployee/Official,2,None,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,Used Car,3386,<100,>=7,3,Male (Single),none,4,Unknown/ No property,35,none,For Free,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+< 0 DM,6,Existing Credits Paid Back,Domestic Appliances,343,<100,<1,4,Female (Div/Sep/Married),none,1,Real Estate,27,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,18,Existing Credits Paid Back,Radio/TV,4594,<100,<1,3,Male (Single),none,2,car or other,32,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,36,Existing Credits Paid Back,Furniture/Equipment,3620,<100,1 to 4,1,Male (Single),guarantor,2,Society Saving/ Life Insurance,37,none,Own,1,SkilledEmployee/Official,2,None,Yes,Good
+< 0 DM,15,Existing Credits Paid Back,New Car,1721,<100,<1,2,Male (Single),none,3,Real Estate,36,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Furniture/Equipment,3017,<100,<1,3,Female (Div/Sep/Married),none,1,Real Estate,34,none,Rent,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Retraining,754,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Society Saving/ Life Insurance,38,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,18,Existing Credits Paid Back,Business,1950,<100,4 to 7,4,Male (Single),none,1,car or other,34,Stores,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,24,Existing Credits Paid Back,Used Car,2924,<100,1 to 4,3,Male (Single),guarantor,4,Unknown/ No property,63,Bank,Own,1,SkilledEmployee/Official,2,Yes,Yes,Good
+< 0 DM,24,Delay in Payment in past,Radio/TV,1659,<100,<1,4,Female (Div/Sep/Married),none,2,car or other,29,none,Rent,1,Unskilled Resident,1,Yes,Yes,Bad
+No Checking Account,48,Delay in Payment in past,Radio/TV,7238,Unknown/ No Saving Ac,>=7,3,Male (Single),none,3,car or other,32,Bank,Own,2,SkilledEmployee/Official,2,None,Yes,Good
+No Checking Account,33,Delay in Payment in past,Business,2764,<100,1 to 4,2,Female (Div/Sep/Married),none,2,car or other,26,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,24,Delay in Payment in past,Used Car,4679,<100,4 to 7,3,Male (Single),none,3,car or other,35,none,Own,2,Unskilled Resident,1,Yes,Yes,Good
+0 - 20 DM,24,Existing Credits Paid Back,Radio/TV,3092,100 - 500,<1,3,Male (Married/Widowed),none,2,car or other,22,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+< 0 DM,6,Existing Credits Paid Back,Education,448,<100,<1,4,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,23,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,9,Existing Credits Paid Back,New Car,654,<100,1 to 4,4,Male (Single),none,3,car or other,28,none,Own,1,Unskilled Resident,1,None,Yes,Bad
+No Checking Account,6,Existing Credits Paid Back,Retraining,1238,Unknown/ No Saving Ac,unemployed,4,Male (Single),none,4,Society Saving/ Life Insurance,36,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Good
+0 - 20 DM,18,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1245,<100,1 to 4,4,Male (Married/Widowed),none,2,car or other,33,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,18,No Credits taken/ All Credits Paid,Furniture/Equipment,3114,<100,<1,1,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,26,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,39,Existing Credits Paid Back,Used Car,2569,500 - 1000,1 to 4,4,Male (Single),none,4,car or other,24,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+>= 200 DM,24,Existing Credits Paid Back,Radio/TV,5152,<100,4 to 7,4,Male (Single),none,2,car or other,25,Bank,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Business,1037,100 - 500,4 to 7,3,Male (Single),none,4,Real Estate,39,none,Own,1,Unskilled Resident,1,None,Yes,Good
+< 0 DM,15,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,1478,<100,>=7,4,Male (Single),none,4,car or other,44,none,Own,2,SkilledEmployee/Official,2,Yes,Yes,Good
+0 - 20 DM,12,Critical Account/Other Credit Existing(Not this bank),Radio/TV,3573,<100,1 to 4,1,Female (Div/Sep/Married),none,1,Real Estate,23,none,Own,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,24,Existing Credits Paid Back,New Car,1201,<100,<1,4,Male (Single),none,1,Society Saving/ Life Insurance,26,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,30,Existing Credits Paid Back,Furniture/Equipment,3622,>=1000,>=7,4,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,57,none,Rent,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,15,Delay in Payment in past,Furniture/Equipment,960,>=1000,4 to 7,3,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,30,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),New Car,1163,500 - 1000,1 to 4,4,Male (Single),none,4,Real Estate,44,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,6,Delay in Payment in past,New Car,1209,<100,unemployed,4,Male (Single),none,4,Society Saving/ Life Insurance,47,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,12,Existing Credits Paid Back,Radio/TV,3077,<100,1 to 4,2,Male (Single),none,4,car or other,52,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,New Car,3757,<100,>=7,4,Female (Div/Sep/Married),co-applicant,4,Unknown/ No property,62,none,For Free,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,10,Existing Credits Paid Back,New Car,1418,100 - 500,1 to 4,3,Male (Single),none,2,Real Estate,35,none,Rent,1,Unskilled Resident,1,None,No,Good
+No Checking Account,6,Existing Credits Paid Back,New Car,3518,<100,1 to 4,2,Male (Single),guarantor,3,Society Saving/ Life Insurance,26,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1934,<100,>=7,2,Male (Single),none,2,Unknown/ No property,26,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,27,No Credits taken/ All Credits Paid,Business,8318,<100,>=7,2,Female (Div/Sep/Married),none,4,Unknown/ No property,42,none,For Free,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,6,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1237,100 - 500,1 to 4,1,Female (Div/Sep/Married),none,1,Society Saving/ Life Insurance,27,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,6,Existing Credits Paid Back,Radio/TV,368,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Society Saving/ Life Insurance,38,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,12,Critical Account/Other Credit Existing(Not this bank),New Car,2122,<100,1 to 4,3,Male (Single),none,2,Real Estate,39,none,Rent,2,Unskilled Resident,2,None,No,Good
+< 0 DM,24,Existing Credits Paid Back,Furniture/Equipment,2996,Unknown/ No Saving Ac,1 to 4,2,Male (Married/Widowed),none,4,car or other,20,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,36,Existing Credits Paid Back,Furniture/Equipment,9034,100 - 500,<1,4,Male (Single),co-applicant,1,Unknown/ No property,29,none,Rent,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,1585,<100,4 to 7,4,Male (Single),none,3,Society Saving/ Life Insurance,40,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,18,Existing Credits Paid Back,Radio/TV,1301,<100,>=7,4,Male (Married/Widowed),guarantor,2,Real Estate,32,none,Own,1,Unskilled Resident,1,None,Yes,Good
+>= 200 DM,6,Critical Account/Other Credit Existing(Not this bank),New Car,1323,100 - 500,>=7,2,Male (Div/Sep/Married),none,4,car or other,28,none,Own,2,SkilledEmployee/Official,2,Yes,Yes,Good
+< 0 DM,24,Existing Credits Paid Back,New Car,3123,<100,<1,4,Female (Div/Sep/Married),none,1,Society Saving/ Life Insurance,27,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,36,Existing Credits Paid Back,Used Car,5493,<100,>=7,2,Male (Single),none,4,Unknown/ No property,42,none,For Free,1,SkilledEmployee/Official,2,None,Yes,Good
+>= 200 DM,9,Existing Credits Paid Back,Radio/TV,1126,100 - 500,>=7,2,Male (Div/Sep/Married),none,4,Real Estate,49,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,24,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1216,100 - 500,<1,4,Male (Single),none,4,Unknown/ No property,38,Bank,Own,2,SkilledEmployee/Official,2,None,Yes,Bad
+< 0 DM,24,Existing Credits Paid Back,New Car,1207,<100,<1,4,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,24,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,10,Existing Credits Paid Back,New Car,1309,Unknown/ No Saving Ac,1 to 4,4,Male (Single),guarantor,4,Society Saving/ Life Insurance,27,none,Own,1,Unskilled Resident,1,None,Yes,Bad
+>= 200 DM,15,Critical Account/Other Credit Existing(Not this bank),Used Car,2360,500 - 1000,1 to 4,2,Male (Single),none,2,car or other,36,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,15,All Credits Paid (this bank),New Car,6850,100 - 500,unemployed,1,Male (Single),none,2,Society Saving/ Life Insurance,34,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Bad
+No Checking Account,24,Existing Credits Paid Back,Radio/TV,1413,<100,1 to 4,4,Male (Married/Widowed),none,2,Society Saving/ Life Insurance,28,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,39,Existing Credits Paid Back,Used Car,8588,100 - 500,>=7,4,Male (Single),none,2,car or other,45,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,New Car,759,<100,4 to 7,4,Male (Single),none,2,Real Estate,26,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,36,Existing Credits Paid Back,Used Car,4686,<100,1 to 4,2,Male (Single),none,2,Unknown/ No property,32,none,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+>= 200 DM,15,Existing Credits Paid Back,Business,2687,<100,4 to 7,2,Male (Single),none,4,Society Saving/ Life Insurance,26,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,12,Delay in Payment in past,Radio/TV,585,<100,1 to 4,4,Male (Married/Widowed),co-applicant,4,Real Estate,20,none,Rent,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,New Car,2255,Unknown/ No Saving Ac,<1,4,Male (Single),none,1,Society Saving/ Life Insurance,54,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,6,Critical Account/Other Credit Existing(Not this bank),New Car,609,<100,4 to 7,4,Female (Div/Sep/Married),none,3,Society Saving/ Life Insurance,37,none,Own,2,SkilledEmployee/Official,1,None,No,Good
+< 0 DM,6,Critical Account/Other Credit Existing(Not this bank),New Car,1361,<100,<1,2,Male (Single),none,4,Real Estate,40,none,Own,1,Unskilled Resident,2,None,No,Good
+No Checking Account,36,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,7127,<100,<1,2,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,23,none,Rent,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+< 0 DM,6,Existing Credits Paid Back,New Car,1203,100 - 500,>=7,3,Male (Single),none,2,Society Saving/ Life Insurance,43,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,6,Critical Account/Other Credit Existing(Not this bank),Radio/TV,700,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Unknown/ No property,36,none,For Free,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Repairs,5507,<100,>=7,3,Male (Single),none,4,Unknown/ No property,44,none,For Free,2,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,18,Existing Credits Paid Back,Radio/TV,3190,<100,1 to 4,2,Female (Div/Sep/Married),none,2,Real Estate,24,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,48,No Credits taken/ All Credits Paid,Furniture/Equipment,7119,<100,1 to 4,3,Male (Single),none,4,Unknown/ No property,53,none,For Free,2,SkilledEmployee/Official,2,None,Yes,Bad
+No Checking Account,24,Existing Credits Paid Back,Used Car,3488,100 - 500,4 to 7,3,Female (Div/Sep/Married),none,4,car or other,23,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,18,Existing Credits Paid Back,Radio/TV,1113,<100,1 to 4,4,Female (Div/Sep/Married),guarantor,4,Real Estate,26,none,Own,1,Unskilled Resident,2,None,Yes,Good
+0 - 20 DM,26,Existing Credits Paid Back,Used Car,7966,<100,<1,2,Male (Single),none,3,car or other,30,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,15,Critical Account/Other Credit Existing(Not this bank),Education,1532,100 - 500,1 to 4,4,Female (Div/Sep/Married),none,3,car or other,31,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,4,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1503,<100,4 to 7,2,Male (Single),none,1,Real Estate,42,none,Own,2,Unskilled Resident,2,None,Yes,Good
+< 0 DM,36,Existing Credits Paid Back,Radio/TV,2302,<100,1 to 4,4,Male (Div/Sep/Married),none,4,car or other,31,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,6,Existing Credits Paid Back,New Car,662,<100,<1,3,Male (Single),none,4,Real Estate,41,none,Own,1,Unskilled Resident,2,Yes,Yes,Good
+0 - 20 DM,36,Existing Credits Paid Back,Education,2273,<100,4 to 7,3,Male (Single),none,1,car or other,32,none,Own,2,SkilledEmployee/Official,2,None,Yes,Good
+0 - 20 DM,15,Existing Credits Paid Back,New Car,2631,100 - 500,1 to 4,2,Female (Div/Sep/Married),none,4,car or other,28,none,Rent,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,12,Delay in Payment in past,Used Car,1503,<100,1 to 4,4,Male (Married/Widowed),none,4,Real Estate,41,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Radio/TV,1311,100 - 500,4 to 7,4,Male (Married/Widowed),none,3,Society Saving/ Life Insurance,26,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Radio/TV,3105,Unknown/ No Saving Ac,<1,4,Male (Single),none,2,car or other,25,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+>= 200 DM,21,Critical Account/Other Credit Existing(Not this bank),Education,2319,<100,<1,2,Male (Div/Sep/Married),none,1,car or other,33,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,6,Existing Credits Paid Back,New Car,1374,Unknown/ No Saving Ac,unemployed,4,Female (Div/Sep/Married),none,3,Society Saving/ Life Insurance,75,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,18,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,3612,<100,>=7,3,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,37,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,48,Existing Credits Paid Back,New Car,7763,<100,>=7,4,Male (Single),none,4,Unknown/ No property,42,Bank,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Bad
+>= 200 DM,18,Existing Credits Paid Back,Furniture/Equipment,3049,<100,<1,1,Female (Div/Sep/Married),none,1,Society Saving/ Life Insurance,45,Stores,Own,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Radio/TV,1534,<100,<1,1,Male (Married/Widowed),none,1,Real Estate,23,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,24,Delay in Payment in past,New Car,2032,<100,>=7,4,Male (Single),none,4,Unknown/ No property,60,none,For Free,2,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,30,Existing Credits Paid Back,Furniture/Equipment,6350,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Society Saving/ Life Insurance,31,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+>= 200 DM,18,Existing Credits Paid Back,Furniture/Equipment,2864,<100,1 to 4,2,Male (Single),none,1,Real Estate,34,none,Own,1,Unskilled Resident,2,None,Yes,Bad
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),New Car,1255,<100,>=7,4,Male (Single),none,4,Real Estate,61,none,Own,2,Unskilled Resident,1,None,Yes,Good
+< 0 DM,24,Delay in Payment in past,New Car,1333,<100,unemployed,4,Male (Single),none,2,Real Estate,43,none,For Free,2,SkilledEmployee/Official,2,None,Yes,Bad
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),New Car,2022,<100,1 to 4,4,Female (Div/Sep/Married),none,4,car or other,37,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Radio/TV,1552,<100,4 to 7,3,Male (Single),none,1,car or other,32,Bank,Own,1,SkilledEmployee/Official,2,None,Yes,Good
+< 0 DM,12,All Credits Paid (this bank),Radio/TV,626,<100,1 to 4,4,Female (Div/Sep/Married),none,4,Real Estate,24,Bank,Own,1,Unskilled Resident,1,None,Yes,Bad
+No Checking Account,48,Critical Account/Other Credit Existing(Not this bank),Used Car,8858,Unknown/ No Saving Ac,4 to 7,2,Male (Single),none,1,Unknown/ No property,35,none,For Free,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Repairs,996,Unknown/ No Saving Ac,4 to 7,4,Female (Div/Sep/Married),none,4,Real Estate,23,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,6,All Credits Paid (this bank),Radio/TV,1750,500 - 1000,>=7,2,Male (Single),none,4,Society Saving/ Life Insurance,45,Bank,Own,1,Unskilled Resident,2,None,Yes,Good
+< 0 DM,48,Existing Credits Paid Back,Radio/TV,6999,<100,4 to 7,1,Male (Married/Widowed),guarantor,1,Real Estate,34,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+0 - 20 DM,12,Critical Account/Other Credit Existing(Not this bank),New Car,1995,100 - 500,<1,4,Male (Single),none,1,car or other,27,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,9,Existing Credits Paid Back,Education,1199,<100,4 to 7,4,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,67,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Radio/TV,1331,<100,<1,2,Male (Single),none,1,car or other,22,Stores,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,18,No Credits taken/ All Credits Paid,New Car,2278,100 - 500,<1,3,Female (Div/Sep/Married),none,3,car or other,28,none,Own,2,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,21,No Credits taken/ All Credits Paid,New Car,5003,Unknown/ No Saving Ac,1 to 4,1,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,29,Bank,Own,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+< 0 DM,24,All Credits Paid (this bank),Furniture/Equipment,3552,<100,4 to 7,3,Male (Single),none,4,car or other,27,Bank,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,18,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,1928,<100,<1,2,Male (Single),none,2,Real Estate,31,none,Own,2,Unskilled Resident,1,None,Yes,Bad
+< 0 DM,24,Existing Credits Paid Back,Used Car,2964,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Unknown/ No property,49,Bank,For Free,1,SkilledEmployee/Official,2,Yes,Yes,Good
+< 0 DM,24,All Credits Paid (this bank),Radio/TV,1546,<100,4 to 7,4,Male (Single),guarantor,4,car or other,24,Bank,Rent,1,Unskilled Resident,1,None,Yes,Bad
+>= 200 DM,6,Delay in Payment in past,Radio/TV,683,<100,<1,2,Female (Div/Sep/Married),none,1,Society Saving/ Life Insurance,29,Bank,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,36,Existing Credits Paid Back,New Car,12389,Unknown/ No Saving Ac,1 to 4,1,Male (Single),none,4,Unknown/ No property,37,none,For Free,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+0 - 20 DM,24,Delay in Payment in past,Business,4712,Unknown/ No Saving Ac,1 to 4,4,Male (Single),none,2,Society Saving/ Life Insurance,37,Bank,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,24,Delay in Payment in past,Radio/TV,1553,100 - 500,4 to 7,3,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,23,none,Rent,2,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,New Car,1372,<100,4 to 7,2,Male (Div/Sep/Married),none,3,car or other,36,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Radio/TV,2578,>=1000,>=7,2,Male (Single),none,2,car or other,34,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,48,Existing Credits Paid Back,Radio/TV,3979,Unknown/ No Saving Ac,4 to 7,4,Male (Single),none,1,car or other,41,none,Own,2,SkilledEmployee/Official,2,Yes,Yes,Good
+< 0 DM,48,Existing Credits Paid Back,Radio/TV,6758,<100,1 to 4,3,Female (Div/Sep/Married),none,2,car or other,31,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+< 0 DM,24,Existing Credits Paid Back,Furniture/Equipment,3234,<100,<1,4,Female (Div/Sep/Married),none,4,Real Estate,23,none,Rent,1,Unskilled Resident,1,Yes,Yes,Bad
+No Checking Account,30,Critical Account/Other Credit Existing(Not this bank),Radio/TV,5954,<100,4 to 7,3,Male (Single),co-applicant,2,car or other,38,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Used Car,5433,Unknown/ No Saving Ac,unemployed,2,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,26,none,Rent,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,15,Existing Credits Paid Back,Business,806,<100,1 to 4,4,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,22,none,Own,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,9,Existing Credits Paid Back,Radio/TV,1082,<100,>=7,4,Male (Single),none,4,car or other,27,none,Own,2,Unskilled Resident,1,None,Yes,Good
+No Checking Account,15,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,2788,<100,4 to 7,2,Female (Div/Sep/Married),co-applicant,3,car or other,24,Bank,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Radio/TV,2930,<100,4 to 7,2,Female (Div/Sep/Married),none,1,Real Estate,27,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Education,1927,Unknown/ No Saving Ac,1 to 4,3,Female (Div/Sep/Married),none,2,car or other,33,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,36,Critical Account/Other Credit Existing(Not this bank),New Car,2820,<100,<1,4,Male (Div/Sep/Married),none,4,car or other,27,none,Own,2,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,24,Existing Credits Paid Back,Retraining,937,<100,<1,4,Male (Married/Widowed),none,3,car or other,27,none,Own,2,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,18,Critical Account/Other Credit Existing(Not this bank),New Car,1056,<100,>=7,3,Male (Single),guarantor,3,Real Estate,30,Bank,Own,2,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,12,Critical Account/Other Credit Existing(Not this bank),New Car,3124,<100,<1,1,Male (Single),none,3,Real Estate,49,Bank,Own,2,Unskilled Resident,2,None,Yes,Good
+No Checking Account,9,Existing Credits Paid Back,Furniture/Equipment,1388,<100,1 to 4,4,Female (Div/Sep/Married),none,2,Real Estate,26,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,36,Existing Credits Paid Back,Repairs,2384,<100,<1,4,Male (Single),none,1,Unknown/ No property,33,none,Rent,1,Unskilled Resident,1,None,Yes,Bad
+No Checking Account,12,Existing Credits Paid Back,New Car,2133,Unknown/ No Saving Ac,>=7,4,Female (Div/Sep/Married),none,4,Unknown/ No property,52,none,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,18,Existing Credits Paid Back,Furniture/Equipment,2039,<100,1 to 4,1,Female (Div/Sep/Married),none,4,Real Estate,20,Bank,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,9,Critical Account/Other Credit Existing(Not this bank),New Car,2799,<100,1 to 4,2,Male (Single),none,2,Real Estate,36,none,Rent,2,SkilledEmployee/Official,2,None,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,Furniture/Equipment,1289,<100,1 to 4,4,Male (Single),guarantor,1,Society Saving/ Life Insurance,21,none,Own,1,Unskilled Resident,1,None,Yes,Good
+< 0 DM,18,Existing Credits Paid Back,Domestic Appliances,1217,<100,1 to 4,4,Male (Married/Widowed),none,3,Real Estate,47,none,Own,1,Unskilled Resident,1,Yes,Yes,Bad
+< 0 DM,12,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,2246,<100,>=7,3,Male (Single),none,3,Society Saving/ Life Insurance,60,none,Own,2,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,12,Critical Account/Other Credit Existing(Not this bank),Radio/TV,385,<100,4 to 7,4,Female (Div/Sep/Married),none,3,Real Estate,58,none,Own,4,Unskilled Resident,1,Yes,Yes,Good
+0 - 20 DM,24,Delay in Payment in past,New Car,1965,Unknown/ No Saving Ac,1 to 4,4,Female (Div/Sep/Married),none,4,car or other,42,none,Rent,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,21,Existing Credits Paid Back,Business,1572,>=1000,>=7,4,Female (Div/Sep/Married),none,4,Real Estate,36,Bank,Own,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,24,Existing Credits Paid Back,New Car,2718,<100,1 to 4,3,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,20,none,Rent,1,Unskilled Resident,1,Yes,Yes,Bad
+< 0 DM,24,All Credits Paid (this bank),others,1358,Unknown/ No Saving Ac,>=7,4,Male (Single),none,3,car or other,40,Stores,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+0 - 20 DM,6,All Credits Paid (this bank),New Car,931,100 - 500,<1,1,Female (Div/Sep/Married),none,1,Society Saving/ Life Insurance,32,Stores,Own,1,Unskilled Resident,1,None,Yes,Bad
+< 0 DM,24,Existing Credits Paid Back,New Car,1442,<100,4 to 7,4,Female (Div/Sep/Married),none,4,car or other,23,none,Rent,2,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,24,No Credits taken/ All Credits Paid,Business,4241,<100,1 to 4,1,Male (Single),none,4,Real Estate,36,none,Own,3,Unskilled Resident,1,Yes,Yes,Bad
+No Checking Account,18,Critical Account/Other Credit Existing(Not this bank),New Car,2775,<100,4 to 7,2,Male (Single),none,2,Society Saving/ Life Insurance,31,Bank,Own,2,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,24,Delay in Payment in past,Business,3863,<100,1 to 4,1,Male (Single),none,2,Unknown/ No property,32,none,For Free,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,7,Existing Credits Paid Back,Radio/TV,2329,<100,<1,1,Female (Div/Sep/Married),guarantor,1,Real Estate,45,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,9,Existing Credits Paid Back,Furniture/Equipment,918,<100,1 to 4,4,Female (Div/Sep/Married),none,1,Society Saving/ Life Insurance,30,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,24,All Credits Paid (this bank),Education,1837,<100,4 to 7,4,Female (Div/Sep/Married),none,4,Unknown/ No property,34,Bank,For Free,1,Unskilled Resident,1,None,Yes,Bad
+No Checking Account,36,Existing Credits Paid Back,Furniture/Equipment,3349,<100,1 to 4,4,Female (Div/Sep/Married),none,2,car or other,28,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+>= 200 DM,10,Existing Credits Paid Back,Furniture/Equipment,1275,<100,<1,4,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,23,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,24,All Credits Paid (this bank),Furniture/Equipment,2828,500 - 1000,1 to 4,4,Male (Single),none,4,Real Estate,22,Stores,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Business,4526,<100,1 to 4,3,Male (Single),none,2,Real Estate,74,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,36,Existing Credits Paid Back,Radio/TV,2671,100 - 500,1 to 4,4,Female (Div/Sep/Married),co-applicant,4,Unknown/ No property,50,none,For Free,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,18,Existing Credits Paid Back,Radio/TV,2051,<100,<1,4,Male (Single),none,1,Real Estate,33,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,15,Existing Credits Paid Back,Used Car,1300,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Unknown/ No property,45,Bank,For Free,1,SkilledEmployee/Official,2,None,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,Domestic Appliances,741,100 - 500,unemployed,4,Female (Div/Sep/Married),none,3,Society Saving/ Life Insurance,22,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+>= 200 DM,10,Existing Credits Paid Back,New Car,1240,100 - 500,>=7,1,Female (Div/Sep/Married),none,4,Unknown/ No property,48,none,For Free,1,Unskilled Resident,2,None,Yes,Bad
+< 0 DM,21,Existing Credits Paid Back,Radio/TV,3357,>=1000,<1,4,Female (Div/Sep/Married),none,2,car or other,29,Bank,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,24,All Credits Paid (this bank),Used Car,3632,<100,1 to 4,1,Female (Div/Sep/Married),guarantor,4,car or other,22,Bank,Rent,1,SkilledEmployee/Official,1,None,No,Good
+No Checking Account,18,Delay in Payment in past,Furniture/Equipment,1808,<100,4 to 7,4,Female (Div/Sep/Married),none,1,Real Estate,22,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,48,No Credits taken/ All Credits Paid,Business,12204,Unknown/ No Saving Ac,1 to 4,2,Male (Single),none,2,car or other,48,Bank,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,60,Delay in Payment in past,Radio/TV,9157,Unknown/ No Saving Ac,1 to 4,2,Male (Single),none,2,Unknown/ No property,27,none,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Good
+< 0 DM,6,Critical Account/Other Credit Existing(Not this bank),New Car,3676,<100,1 to 4,1,Male (Single),none,3,Real Estate,37,none,Rent,3,SkilledEmployee/Official,2,None,Yes,Good
+0 - 20 DM,30,Existing Credits Paid Back,Furniture/Equipment,3441,100 - 500,1 to 4,2,Female (Div/Sep/Married),co-applicant,4,car or other,21,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,12,Existing Credits Paid Back,New Car,640,<100,1 to 4,4,Male (Div/Sep/Married),none,2,Real Estate,49,none,Own,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,21,Critical Account/Other Credit Existing(Not this bank),Business,3652,<100,4 to 7,2,Male (Single),none,3,Society Saving/ Life Insurance,27,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,18,Critical Account/Other Credit Existing(Not this bank),New Car,1530,<100,1 to 4,3,Male (Single),none,2,Society Saving/ Life Insurance,32,Bank,Own,2,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,48,Existing Credits Paid Back,Business,3914,Unknown/ No Saving Ac,1 to 4,4,Male (Div/Sep/Married),none,2,Real Estate,38,Bank,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,12,Existing Credits Paid Back,Furniture/Equipment,1858,<100,<1,4,Female (Div/Sep/Married),none,1,car or other,22,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,18,Existing Credits Paid Back,Radio/TV,2600,<100,1 to 4,4,Male (Single),none,4,Unknown/ No property,65,none,For Free,2,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,15,Existing Credits Paid Back,Radio/TV,1979,Unknown/ No Saving Ac,>=7,4,Male (Single),none,2,car or other,35,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+>= 200 DM,6,Existing Credits Paid Back,Furniture/Equipment,2116,<100,1 to 4,2,Male (Single),none,2,Real Estate,41,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,9,All Credits Paid (this bank),New Car,1437,100 - 500,4 to 7,2,Male (Single),none,3,Unknown/ No property,29,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,42,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,4042,500 - 1000,1 to 4,4,Male (Single),none,4,Real Estate,36,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,9,Existing Credits Paid Back,Education,3832,Unknown/ No Saving Ac,>=7,1,Male (Single),none,4,Real Estate,64,none,Own,1,Unskilled Resident,1,None,Yes,Good
+< 0 DM,24,Existing Credits Paid Back,Radio/TV,3660,<100,1 to 4,2,Female (Div/Sep/Married),none,4,car or other,28,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,18,All Credits Paid (this bank),Furniture/Equipment,1553,<100,1 to 4,4,Male (Single),none,3,car or other,44,Bank,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,15,Existing Credits Paid Back,Radio/TV,1444,Unknown/ No Saving Ac,<1,4,Male (Single),none,1,Society Saving/ Life Insurance,23,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,9,Existing Credits Paid Back,Furniture/Equipment,1980,<100,<1,2,Female (Div/Sep/Married),co-applicant,2,car or other,19,none,Rent,2,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,24,Existing Credits Paid Back,New Car,1355,<100,<1,3,Female (Div/Sep/Married),none,4,car or other,25,none,Own,1,Unskilled Resident,1,Yes,Yes,Bad
+No Checking Account,12,Existing Credits Paid Back,Education,1393,<100,>=7,4,Male (Single),none,4,Society Saving/ Life Insurance,47,Bank,Own,3,SkilledEmployee/Official,2,Yes,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Radio/TV,1376,500 - 1000,4 to 7,4,Female (Div/Sep/Married),none,1,car or other,28,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,60,Delay in Payment in past,Radio/TV,15653,<100,4 to 7,2,Male (Single),none,4,car or other,21,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,Radio/TV,1493,<100,<1,4,Female (Div/Sep/Married),none,3,car or other,34,none,Own,1,SkilledEmployee/Official,2,None,Yes,Good
+< 0 DM,42,Delay in Payment in past,Radio/TV,4370,<100,4 to 7,3,Male (Single),none,2,Society Saving/ Life Insurance,26,Bank,Own,2,SkilledEmployee/Official,2,Yes,Yes,Bad
+< 0 DM,18,Existing Credits Paid Back,Education,750,<100,unemployed,4,Female (Div/Sep/Married),none,1,Real Estate,27,none,Own,1,UnEmp - NR,1,None,Yes,Bad
+0 - 20 DM,15,Existing Credits Paid Back,Repairs,1308,<100,>=7,4,Male (Single),none,4,car or other,38,none,Own,2,Unskilled Resident,1,None,Yes,Good
+No Checking Account,15,Existing Credits Paid Back,Education,4623,100 - 500,1 to 4,3,Male (Single),none,2,Society Saving/ Life Insurance,40,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1851,<100,4 to 7,4,Male (Married/Widowed),guarantor,2,car or other,33,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,18,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1880,<100,4 to 7,4,Male (Married/Widowed),none,1,Society Saving/ Life Insurance,32,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,36,Delay in Payment in past,Business,7980,Unknown/ No Saving Ac,<1,4,Male (Single),none,4,car or other,27,none,Rent,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+< 0 DM,30,No Credits taken/ All Credits Paid,Furniture/Equipment,4583,<100,1 to 4,2,Male (Div/Sep/Married),guarantor,2,Real Estate,32,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,New Car,1386,500 - 1000,1 to 4,2,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,26,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+>= 200 DM,24,Existing Credits Paid Back,New Car,947,<100,4 to 7,4,Male (Single),none,3,Unknown/ No property,38,Bank,For Free,1,SkilledEmployee/Official,2,None,Yes,Bad
+< 0 DM,12,Existing Credits Paid Back,Education,684,<100,1 to 4,4,Male (Single),none,4,car or other,40,none,Rent,1,Unskilled Resident,2,None,Yes,Bad
+< 0 DM,48,Existing Credits Paid Back,Education,7476,<100,4 to 7,4,Male (Single),none,1,Unknown/ No property,50,none,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Furniture/Equipment,1922,<100,1 to 4,4,Male (Single),none,2,Society Saving/ Life Insurance,37,none,Own,1,Unskilled Resident,1,None,Yes,Bad
+< 0 DM,24,Existing Credits Paid Back,New Car,2303,<100,>=7,4,Male (Single),co-applicant,1,Real Estate,45,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,36,Delay in Payment in past,New Car,8086,100 - 500,>=7,2,Male (Single),none,4,car or other,42,none,Own,4,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Used Car,2346,<100,4 to 7,4,Male (Single),none,3,car or other,35,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,14,Existing Credits Paid Back,New Car,3973,<100,unemployed,1,Male (Single),none,4,Unknown/ No property,22,none,For Free,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,New Car,888,<100,>=7,4,Male (Single),none,4,car or other,41,Bank,Own,1,Unskilled Resident,2,None,Yes,Bad
+No Checking Account,48,Existing Credits Paid Back,Radio/TV,10222,Unknown/ No Saving Ac,4 to 7,4,Male (Single),none,3,car or other,37,Stores,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,30,No Credits taken/ All Credits Paid,Business,4221,<100,1 to 4,2,Female (Div/Sep/Married),none,1,car or other,28,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,18,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,6361,<100,>=7,2,Male (Single),none,1,Unknown/ No property,41,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+>= 200 DM,12,Existing Credits Paid Back,Radio/TV,1297,<100,1 to 4,3,Male (Married/Widowed),none,4,Real Estate,23,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,New Car,900,Unknown/ No Saving Ac,1 to 4,4,Male (Married/Widowed),none,2,car or other,23,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,21,Existing Credits Paid Back,Furniture/Equipment,2241,<100,>=7,4,Male (Single),none,2,Real Estate,50,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,6,Delay in Payment in past,Furniture/Equipment,1050,<100,unemployed,4,Male (Single),none,1,Society Saving/ Life Insurance,35,Stores,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+>= 200 DM,6,Critical Account/Other Credit Existing(Not this bank),Education,1047,<100,1 to 4,2,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,50,none,Own,1,Unskilled Resident,1,None,Yes,Good
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),others,6314,<100,unemployed,4,Male (Single),co-applicant,2,Unknown/ No property,27,Bank,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,30,All Credits Paid (this bank),Furniture/Equipment,3496,>=1000,1 to 4,4,Male (Single),none,2,car or other,34,Stores,Own,1,SkilledEmployee/Official,2,Yes,Yes,Good
+No Checking Account,48,All Credits Paid (this bank),Business,3609,<100,1 to 4,1,Female (Div/Sep/Married),none,1,Real Estate,27,Stores,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,12,Critical Account/Other Credit Existing(Not this bank),New Car,4843,<100,>=7,3,Male (Single),co-applicant,4,Society Saving/ Life Insurance,43,none,Rent,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+>= 200 DM,30,Critical Account/Other Credit Existing(Not this bank),Radio/TV,3017,<100,>=7,4,Male (Single),none,4,Society Saving/ Life Insurance,47,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Business,4139,100 - 500,1 to 4,3,Male (Single),none,3,Society Saving/ Life Insurance,27,none,Own,2,Unskilled Resident,1,Yes,Yes,Good
+No Checking Account,36,Existing Credits Paid Back,Business,5742,100 - 500,4 to 7,2,Male (Single),none,2,car or other,31,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,60,Existing Credits Paid Back,New Car,10366,<100,>=7,2,Male (Single),none,4,Society Saving/ Life Insurance,42,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,6,Critical Account/Other Credit Existing(Not this bank),New Car,2080,500 - 1000,1 to 4,1,Male (Married/Widowed),none,2,car or other,24,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,21,Delay in Payment in past,Business,2580,500 - 1000,<1,4,Male (Single),none,2,Real Estate,41,Bank,Own,1,Unskilled Resident,2,None,Yes,Bad
+No Checking Account,30,Critical Account/Other Credit Existing(Not this bank),Radio/TV,4530,<100,4 to 7,4,Female (Div/Sep/Married),none,4,car or other,26,none,Rent,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,5150,<100,>=7,4,Male (Single),none,4,car or other,33,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,72,Existing Credits Paid Back,Radio/TV,5595,100 - 500,1 to 4,2,Male (Married/Widowed),none,2,car or other,24,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,24,Existing Credits Paid Back,Radio/TV,2384,<100,>=7,4,Male (Single),none,4,Real Estate,64,Bank,Rent,1,Unskilled Resident,1,None,Yes,Good
+No Checking Account,18,Existing Credits Paid Back,Radio/TV,1453,<100,<1,3,Female (Div/Sep/Married),none,1,Real Estate,26,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,6,Existing Credits Paid Back,Education,1538,<100,<1,1,Female (Div/Sep/Married),none,2,Unknown/ No property,56,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,Radio/TV,2279,Unknown/ No Saving Ac,1 to 4,4,Male (Single),none,4,Unknown/ No property,37,none,For Free,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,15,Delay in Payment in past,Radio/TV,1478,<100,1 to 4,4,Male (Married/Widowed),none,3,Real Estate,33,Bank,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Radio/TV,5103,<100,<1,3,Male (Married/Widowed),none,3,Unknown/ No property,47,none,For Free,3,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,36,Delay in Payment in past,Business,9857,100 - 500,4 to 7,1,Male (Single),none,3,Society Saving/ Life Insurance,31,none,Own,2,Unskilled Resident,2,Yes,Yes,Good
+No Checking Account,60,Existing Credits Paid Back,New Car,6527,Unknown/ No Saving Ac,1 to 4,4,Male (Single),none,4,Unknown/ No property,34,none,For Free,1,SkilledEmployee/Official,2,Yes,Yes,Good
+>= 200 DM,10,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1347,Unknown/ No Saving Ac,4 to 7,4,Male (Single),none,2,Society Saving/ Life Insurance,27,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,36,Delay in Payment in past,New Car,2862,100 - 500,>=7,4,Male (Single),none,3,Unknown/ No property,30,none,For Free,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,9,Existing Credits Paid Back,Radio/TV,2753,100 - 500,>=7,3,Male (Single),co-applicant,4,car or other,35,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,New Car,3651,>=1000,1 to 4,1,Male (Single),none,3,Society Saving/ Life Insurance,31,none,Own,1,SkilledEmployee/Official,2,None,Yes,Good
+< 0 DM,15,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,975,<100,1 to 4,2,Male (Div/Sep/Married),none,3,Society Saving/ Life Insurance,25,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,15,Existing Credits Paid Back,Repairs,2631,100 - 500,1 to 4,3,Female (Div/Sep/Married),none,2,Real Estate,25,none,Own,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,24,Existing Credits Paid Back,Radio/TV,2896,100 - 500,<1,2,Male (Single),none,1,car or other,29,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,6,Critical Account/Other Credit Existing(Not this bank),New Car,4716,Unknown/ No Saving Ac,<1,1,Male (Single),none,3,Real Estate,44,none,Own,2,Unskilled Resident,2,None,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Radio/TV,2284,<100,4 to 7,4,Male (Single),none,2,car or other,28,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,6,Existing Credits Paid Back,Used Car,1236,500 - 1000,1 to 4,2,Male (Single),none,4,Society Saving/ Life Insurance,50,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Radio/TV,1103,<100,4 to 7,4,Male (Single),guarantor,3,Real Estate,29,none,Own,2,SkilledEmployee/Official,1,None,No,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),New Car,926,<100,unemployed,1,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,38,none,Own,1,UnEmp - NR,1,None,Yes,Good
+No Checking Account,18,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1800,<100,1 to 4,4,Male (Single),none,2,car or other,24,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+>= 200 DM,15,Existing Credits Paid Back,Education,1905,<100,>=7,4,Male (Single),none,4,car or other,40,none,Rent,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,Furniture/Equipment,1123,500 - 1000,1 to 4,4,Female (Div/Sep/Married),none,4,car or other,29,none,Rent,1,Unskilled Resident,1,None,Yes,Bad
+< 0 DM,48,Critical Account/Other Credit Existing(Not this bank),Used Car,6331,<100,>=7,4,Male (Single),none,4,Unknown/ No property,46,none,For Free,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+>= 200 DM,24,Existing Credits Paid Back,Radio/TV,1377,100 - 500,>=7,4,Female (Div/Sep/Married),none,2,Unknown/ No property,47,none,For Free,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,30,Delay in Payment in past,Business,2503,100 - 500,>=7,4,Male (Single),none,2,Society Saving/ Life Insurance,41,Stores,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,27,Existing Credits Paid Back,Business,2528,<100,<1,4,Female (Div/Sep/Married),none,1,Society Saving/ Life Insurance,32,none,Own,1,SkilledEmployee/Official,2,Yes,Yes,Good
+No Checking Account,15,Existing Credits Paid Back,New Car,5324,500 - 1000,>=7,1,Female (Div/Sep/Married),none,4,Unknown/ No property,35,none,For Free,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,48,Existing Credits Paid Back,New Car,6560,100 - 500,4 to 7,3,Male (Single),none,2,Society Saving/ Life Insurance,24,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,12,No Credits taken/ All Credits Paid,Furniture/Equipment,2969,<100,<1,4,Female (Div/Sep/Married),none,3,Society Saving/ Life Insurance,25,none,Rent,2,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,9,Existing Credits Paid Back,Radio/TV,1206,<100,>=7,4,Female (Div/Sep/Married),none,4,Real Estate,25,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,9,Existing Credits Paid Back,Radio/TV,2118,<100,1 to 4,2,Male (Single),none,2,Real Estate,37,none,Own,1,Unskilled Resident,2,None,Yes,Good
+No Checking Account,18,Critical Account/Other Credit Existing(Not this bank),Radio/TV,629,500 - 1000,>=7,4,Male (Single),none,3,Society Saving/ Life Insurance,32,Bank,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,6,All Credits Paid (this bank),Education,1198,<100,>=7,4,Female (Div/Sep/Married),none,4,Unknown/ No property,35,none,For Free,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,21,Existing Credits Paid Back,Used Car,2476,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Real Estate,46,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,9,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1138,<100,1 to 4,4,Male (Single),none,4,Real Estate,25,none,Own,2,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,60,Existing Credits Paid Back,New Car,14027,<100,4 to 7,4,Male (Single),none,2,Unknown/ No property,27,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,30,Critical Account/Other Credit Existing(Not this bank),Used Car,7596,Unknown/ No Saving Ac,>=7,1,Male (Single),none,4,car or other,63,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,30,Critical Account/Other Credit Existing(Not this bank),Radio/TV,3077,Unknown/ No Saving Ac,>=7,3,Male (Single),none,2,car or other,40,none,Own,2,SkilledEmployee/Official,2,Yes,Yes,Good
+No Checking Account,18,Existing Credits Paid Back,Radio/TV,1505,<100,1 to 4,4,Male (Single),none,2,Unknown/ No property,32,none,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+>= 200 DM,24,Critical Account/Other Credit Existing(Not this bank),Radio/TV,3148,Unknown/ No Saving Ac,1 to 4,3,Male (Single),none,2,car or other,31,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,20,No Credits taken/ All Credits Paid,Used Car,6148,100 - 500,>=7,3,Male (Married/Widowed),none,4,car or other,31,Bank,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+>= 200 DM,9,No Credits taken/ All Credits Paid,Radio/TV,1337,<100,<1,4,Male (Single),none,2,car or other,34,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+0 - 20 DM,6,All Credits Paid (this bank),Education,433,>=1000,<1,4,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,24,Bank,Rent,1,SkilledEmployee/Official,2,None,Yes,Bad
+< 0 DM,12,Existing Credits Paid Back,New Car,1228,<100,1 to 4,4,Female (Div/Sep/Married),none,2,Real Estate,24,none,Own,1,Unskilled Resident,1,None,Yes,Bad
+0 - 20 DM,9,Existing Credits Paid Back,Radio/TV,790,500 - 1000,1 to 4,4,Female (Div/Sep/Married),none,3,Real Estate,66,none,Own,1,Unskilled Resident,1,None,Yes,Good
+No Checking Account,27,Existing Credits Paid Back,New Car,2570,<100,1 to 4,3,Female (Div/Sep/Married),none,3,Real Estate,21,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,6,Critical Account/Other Credit Existing(Not this bank),New Car,250,>=1000,1 to 4,2,Female (Div/Sep/Married),none,2,Real Estate,41,Bank,Own,2,Unskilled Resident,1,None,Yes,Good
+No Checking Account,15,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1316,500 - 1000,1 to 4,2,Male (Married/Widowed),none,2,Society Saving/ Life Insurance,47,none,Own,2,Unskilled Resident,1,None,Yes,Good
+< 0 DM,18,Existing Credits Paid Back,Radio/TV,1882,<100,1 to 4,4,Female (Div/Sep/Married),none,4,car or other,25,Bank,Rent,2,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,48,All Credits Paid (this bank),Business,6416,<100,>=7,4,Female (Div/Sep/Married),none,3,Unknown/ No property,59,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+>= 200 DM,24,Critical Account/Other Credit Existing(Not this bank),Business,1275,>=1000,1 to 4,2,Male (Div/Sep/Married),none,4,Real Estate,36,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,24,Delay in Payment in past,Radio/TV,6403,<100,<1,1,Male (Single),none,2,car or other,33,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,24,Existing Credits Paid Back,Radio/TV,1987,<100,1 to 4,2,Male (Single),none,4,Real Estate,21,none,Rent,1,Unskilled Resident,2,None,Yes,Bad
+0 - 20 DM,8,Existing Credits Paid Back,Radio/TV,760,<100,4 to 7,4,Female (Div/Sep/Married),guarantor,2,Real Estate,44,none,Own,1,Unskilled Resident,1,None,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Used Car,2603,>=1000,1 to 4,2,Female (Div/Sep/Married),none,4,car or other,28,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,4,Critical Account/Other Credit Existing(Not this bank),New Car,3380,<100,4 to 7,1,Female (Div/Sep/Married),none,1,Real Estate,37,none,Own,1,SkilledEmployee/Official,2,None,Yes,Good
+0 - 20 DM,36,All Credits Paid (this bank),Domestic Appliances,3990,Unknown/ No Saving Ac,<1,3,Female (Div/Sep/Married),none,2,Unknown/ No property,29,Bank,Own,1,UnEmp - NR,1,None,Yes,Good
+0 - 20 DM,24,Existing Credits Paid Back,Used Car,11560,<100,1 to 4,1,Female (Div/Sep/Married),none,4,car or other,23,none,Rent,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Bad
+< 0 DM,18,Existing Credits Paid Back,New Car,4380,100 - 500,1 to 4,3,Male (Single),none,4,car or other,35,none,Own,1,Unskilled Resident,2,Yes,Yes,Good
+No Checking Account,6,Critical Account/Other Credit Existing(Not this bank),New Car,6761,<100,4 to 7,1,Male (Single),none,3,Unknown/ No property,45,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Good
+0 - 20 DM,30,No Credits taken/ All Credits Paid,Business,4280,100 - 500,1 to 4,4,Female (Div/Sep/Married),none,4,car or other,26,none,Rent,2,Unskilled Resident,1,None,Yes,Bad
+< 0 DM,24,All Credits Paid (this bank),New Car,2325,100 - 500,4 to 7,2,Male (Single),none,3,car or other,32,Bank,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,10,All Credits Paid (this bank),Radio/TV,1048,<100,1 to 4,4,Male (Single),none,4,Real Estate,23,Stores,Own,1,Unskilled Resident,1,None,Yes,Good
+No Checking Account,21,Existing Credits Paid Back,Radio/TV,3160,Unknown/ No Saving Ac,>=7,4,Male (Single),none,3,Society Saving/ Life Insurance,41,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,24,All Credits Paid (this bank),Furniture/Equipment,2483,500 - 1000,1 to 4,4,Male (Single),none,4,Real Estate,22,Stores,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,39,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,14179,Unknown/ No Saving Ac,4 to 7,4,Male (Single),none,4,Society Saving/ Life Insurance,30,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,13,Critical Account/Other Credit Existing(Not this bank),Business,1797,<100,<1,3,Male (Single),none,1,Society Saving/ Life Insurance,28,Bank,Own,2,Unskilled Resident,1,None,Yes,Good
+< 0 DM,15,Existing Credits Paid Back,New Car,2511,<100,unemployed,1,Female (Div/Sep/Married),none,4,car or other,23,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,New Car,1274,<100,<1,3,Female (Div/Sep/Married),none,1,Real Estate,37,none,Own,1,Unskilled Resident,1,None,Yes,Bad
+No Checking Account,21,Existing Credits Paid Back,Used Car,5248,Unknown/ No Saving Ac,1 to 4,1,Male (Single),none,3,car or other,26,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,15,Existing Credits Paid Back,Used Car,3029,<100,4 to 7,2,Male (Single),none,2,car or other,33,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,6,Existing Credits Paid Back,Furniture/Equipment,428,<100,>=7,2,Female (Div/Sep/Married),none,1,Society Saving/ Life Insurance,49,Bank,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,18,Existing Credits Paid Back,New Car,976,<100,<1,1,Female (Div/Sep/Married),none,2,car or other,23,none,Own,1,Unskilled Resident,1,None,Yes,Bad
+0 - 20 DM,12,Existing Credits Paid Back,Business,841,100 - 500,4 to 7,2,Female (Div/Sep/Married),none,4,Real Estate,23,none,Rent,1,Unskilled Resident,1,None,Yes,Good
+No Checking Account,30,Critical Account/Other Credit Existing(Not this bank),Radio/TV,5771,<100,4 to 7,4,Female (Div/Sep/Married),none,2,car or other,25,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,12,Delay in Payment in past,Repairs,1555,>=1000,>=7,4,Male (Single),none,4,Unknown/ No property,55,none,For Free,2,SkilledEmployee/Official,2,None,Yes,Bad
+< 0 DM,24,Existing Credits Paid Back,New Car,1285,Unknown/ No Saving Ac,4 to 7,4,Female (Div/Sep/Married),none,4,Unknown/ No property,32,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+>= 200 DM,6,Critical Account/Other Credit Existing(Not this bank),New Car,1299,<100,1 to 4,1,Male (Single),none,1,Real Estate,74,none,Own,3,UnEmp - NR,2,None,No,Good
+>= 200 DM,15,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1271,Unknown/ No Saving Ac,1 to 4,3,Male (Single),none,4,Unknown/ No property,39,none,For Free,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,24,Existing Credits Paid Back,New Car,1393,<100,1 to 4,2,Male (Single),guarantor,2,Real Estate,31,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,12,Critical Account/Other Credit Existing(Not this bank),New Car,691,<100,>=7,4,Male (Single),none,3,Society Saving/ Life Insurance,35,none,Own,2,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,15,Critical Account/Other Credit Existing(Not this bank),New Car,5045,Unknown/ No Saving Ac,>=7,1,Female (Div/Sep/Married),none,4,car or other,59,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,18,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,2124,<100,1 to 4,4,Female (Div/Sep/Married),none,4,Real Estate,24,none,Rent,2,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,12,Existing Credits Paid Back,Radio/TV,2214,<100,1 to 4,4,Male (Single),none,3,Society Saving/ Life Insurance,24,none,Own,1,Unskilled Resident,1,None,Yes,Good
+No Checking Account,21,Critical Account/Other Credit Existing(Not this bank),New Car,12680,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Unknown/ No property,30,none,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),New Car,2463,100 - 500,4 to 7,4,Male (Married/Widowed),none,3,Society Saving/ Life Insurance,27,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,Radio/TV,1155,<100,>=7,3,Male (Married/Widowed),guarantor,3,Real Estate,40,Bank,Own,2,Unskilled Resident,1,None,Yes,Good
+< 0 DM,30,Existing Credits Paid Back,Furniture/Equipment,3108,<100,<1,2,Male (Div/Sep/Married),none,4,Society Saving/ Life Insurance,31,none,Own,1,Unskilled Resident,1,None,Yes,Bad
+No Checking Account,10,Existing Credits Paid Back,Used Car,2901,Unknown/ No Saving Ac,<1,1,Female (Div/Sep/Married),none,4,Real Estate,31,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,12,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,3617,<100,>=7,1,Male (Single),none,4,car or other,28,none,Rent,3,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1655,<100,>=7,2,Male (Single),none,4,Real Estate,63,none,Own,2,Unskilled Resident,1,Yes,Yes,Good
+< 0 DM,24,Existing Credits Paid Back,Used Car,2812,Unknown/ No Saving Ac,>=7,2,Female (Div/Sep/Married),none,4,Real Estate,26,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,36,Critical Account/Other Credit Existing(Not this bank),Education,8065,<100,1 to 4,3,Female (Div/Sep/Married),none,2,Unknown/ No property,25,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,21,Critical Account/Other Credit Existing(Not this bank),Used Car,3275,<100,>=7,1,Male (Single),none,4,car or other,36,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Radio/TV,2223,100 - 500,>=7,4,Male (Single),none,4,Society Saving/ Life Insurance,52,Bank,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+>= 200 DM,12,Critical Account/Other Credit Existing(Not this bank),New Car,1480,500 - 1000,unemployed,2,Male (Single),none,4,Unknown/ No property,66,Bank,For Free,3,UnEmp - NR,1,None,Yes,Good
+< 0 DM,24,Existing Credits Paid Back,New Car,1371,Unknown/ No Saving Ac,1 to 4,4,Female (Div/Sep/Married),none,4,Real Estate,25,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,36,Critical Account/Other Credit Existing(Not this bank),New Car,3535,<100,4 to 7,4,Male (Single),none,4,car or other,37,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,18,Existing Credits Paid Back,Radio/TV,3509,<100,4 to 7,4,Female (Div/Sep/Married),guarantor,1,Real Estate,25,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,36,Critical Account/Other Credit Existing(Not this bank),Used Car,5711,>=1000,>=7,4,Male (Single),none,2,car or other,38,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,18,Existing Credits Paid Back,Repairs,3872,<100,unemployed,2,Female (Div/Sep/Married),none,4,car or other,67,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,39,Critical Account/Other Credit Existing(Not this bank),Radio/TV,4933,<100,4 to 7,2,Male (Single),guarantor,2,Real Estate,25,none,Own,2,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),New Car,1940,>=1000,>=7,4,Male (Single),none,4,Real Estate,60,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,12,No Credits taken/ All Credits Paid,Retraining,1410,<100,1 to 4,2,Male (Single),none,2,Real Estate,31,none,Own,1,Unskilled Resident,1,Yes,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,New Car,836,100 - 500,<1,4,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,23,Bank,Own,1,Unskilled Resident,1,None,Yes,Bad
+0 - 20 DM,20,Existing Credits Paid Back,Used Car,6468,Unknown/ No Saving Ac,unemployed,1,Male (Div/Sep/Married),none,4,Real Estate,60,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,18,Existing Credits Paid Back,Business,1941,>=1000,1 to 4,4,Male (Single),none,2,Society Saving/ Life Insurance,35,none,Own,1,Unskilled Resident,1,Yes,Yes,Good
+No Checking Account,22,Existing Credits Paid Back,Radio/TV,2675,500 - 1000,>=7,3,Male (Single),none,4,car or other,40,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,48,Critical Account/Other Credit Existing(Not this bank),Used Car,2751,Unknown/ No Saving Ac,>=7,4,Male (Single),none,3,car or other,38,none,Own,2,SkilledEmployee/Official,2,Yes,Yes,Good
+0 - 20 DM,48,Delay in Payment in past,Education,6224,<100,>=7,4,Male (Single),none,4,Unknown/ No property,50,none,For Free,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,40,Critical Account/Other Credit Existing(Not this bank),Education,5998,<100,1 to 4,4,Male (Single),none,3,Unknown/ No property,27,Bank,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+0 - 20 DM,21,Existing Credits Paid Back,Business,1188,<100,>=7,2,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,39,none,Own,1,SkilledEmployee/Official,2,None,Yes,Bad
+No Checking Account,24,Existing Credits Paid Back,Used Car,6313,Unknown/ No Saving Ac,>=7,3,Male (Single),none,4,car or other,41,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Good
+No Checking Account,6,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,1221,Unknown/ No Saving Ac,1 to 4,1,Male (Married/Widowed),none,2,Society Saving/ Life Insurance,27,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+>= 200 DM,24,Existing Credits Paid Back,Furniture/Equipment,2892,<100,>=7,3,Male (Div/Sep/Married),none,4,Unknown/ No property,51,none,For Free,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Furniture/Equipment,3062,500 - 1000,>=7,4,Male (Single),none,3,Unknown/ No property,32,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,9,Existing Credits Paid Back,Furniture/Equipment,2301,100 - 500,<1,2,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,22,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,18,Existing Credits Paid Back,Used Car,7511,Unknown/ No Saving Ac,>=7,1,Male (Single),none,4,Society Saving/ Life Insurance,51,none,For Free,1,SkilledEmployee/Official,2,Yes,Yes,Bad
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,1258,<100,<1,2,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,22,none,Rent,2,Unskilled Resident,1,None,Yes,Good
+No Checking Account,24,Delay in Payment in past,New Car,717,Unknown/ No Saving Ac,>=7,4,Male (Married/Widowed),none,4,car or other,54,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,9,Existing Credits Paid Back,New Car,1549,Unknown/ No Saving Ac,<1,4,Male (Single),none,2,Real Estate,35,none,Own,1,UnEmp - NR,1,None,Yes,Good
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Education,1597,<100,>=7,4,Male (Single),none,4,Unknown/ No property,54,none,For Free,2,SkilledEmployee/Official,2,None,Yes,Good
+0 - 20 DM,18,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1795,<100,>=7,3,Female (Div/Sep/Married),guarantor,4,Real Estate,48,Bank,Rent,2,Unskilled Resident,1,Yes,Yes,Good
+< 0 DM,20,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,4272,<100,>=7,1,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,24,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Radio/TV,976,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,car or other,35,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,12,Existing Credits Paid Back,New Car,7472,Unknown/ No Saving Ac,unemployed,1,Female (Div/Sep/Married),none,2,Real Estate,24,none,Rent,1,UnEmp - NR,1,None,Yes,Good
+< 0 DM,36,Existing Credits Paid Back,New Car,9271,<100,4 to 7,2,Male (Single),none,1,car or other,24,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+0 - 20 DM,6,Existing Credits Paid Back,Radio/TV,590,<100,<1,3,Male (Married/Widowed),none,3,Real Estate,26,none,Own,1,Unskilled Resident,1,None,No,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Radio/TV,930,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Real Estate,65,none,Own,4,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,42,All Credits Paid (this bank),Used Car,9283,<100,unemployed,1,Male (Single),none,2,Unknown/ No property,55,Bank,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,15,No Credits taken/ All Credits Paid,New Car,1778,<100,<1,2,Female (Div/Sep/Married),none,1,Real Estate,26,none,Rent,2,UnEmp - NR,1,None,Yes,Bad
+0 - 20 DM,8,Existing Credits Paid Back,Business,907,<100,<1,3,Male (Married/Widowed),none,2,Real Estate,26,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,6,Existing Credits Paid Back,Radio/TV,484,<100,4 to 7,3,Male (Married/Widowed),guarantor,3,Real Estate,28,Bank,Own,1,Unskilled Resident,1,None,Yes,Good
+< 0 DM,36,Critical Account/Other Credit Existing(Not this bank),Used Car,9629,<100,4 to 7,4,Male (Single),none,4,car or other,24,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+< 0 DM,48,Existing Credits Paid Back,Domestic Appliances,3051,<100,1 to 4,3,Male (Single),none,4,car or other,54,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,48,Existing Credits Paid Back,New Car,3931,<100,4 to 7,4,Male (Single),none,4,Unknown/ No property,46,none,For Free,1,SkilledEmployee/Official,2,None,Yes,Bad
+0 - 20 DM,36,Delay in Payment in past,New Car,7432,<100,1 to 4,2,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,54,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,6,Existing Credits Paid Back,Domestic Appliances,1338,500 - 1000,1 to 4,1,Male (Div/Sep/Married),none,4,Real Estate,62,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,6,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1554,<100,4 to 7,1,Female (Div/Sep/Married),none,2,car or other,24,none,Rent,2,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,36,Existing Credits Paid Back,others,15857,<100,unemployed,2,Male (Div/Sep/Married),co-applicant,3,car or other,43,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Good
+< 0 DM,18,Existing Credits Paid Back,Radio/TV,1345,<100,1 to 4,4,Male (Married/Widowed),none,3,Real Estate,26,Bank,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,12,Existing Credits Paid Back,New Car,1101,<100,1 to 4,3,Male (Married/Widowed),none,2,Real Estate,27,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+>= 200 DM,12,Existing Credits Paid Back,Radio/TV,3016,<100,1 to 4,3,Male (Married/Widowed),none,1,car or other,24,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,36,Existing Credits Paid Back,Furniture/Equipment,2712,<100,>=7,2,Male (Single),none,2,Society Saving/ Life Insurance,41,Bank,Own,1,SkilledEmployee/Official,2,None,Yes,Bad
+< 0 DM,8,Critical Account/Other Credit Existing(Not this bank),New Car,731,<100,>=7,4,Male (Single),none,4,Real Estate,47,none,Own,2,Unskilled Resident,1,None,Yes,Good
+No Checking Account,18,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,3780,<100,<1,3,Male (Div/Sep/Married),none,2,car or other,35,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,21,Critical Account/Other Credit Existing(Not this bank),New Car,1602,<100,>=7,4,Male (Married/Widowed),none,3,car or other,30,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,18,Critical Account/Other Credit Existing(Not this bank),New Car,3966,<100,>=7,1,Female (Div/Sep/Married),none,4,Real Estate,33,Bank,Rent,3,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,18,No Credits taken/ All Credits Paid,Business,4165,<100,1 to 4,2,Male (Single),none,2,car or other,36,Stores,Own,2,SkilledEmployee/Official,2,None,Yes,Bad
+< 0 DM,36,Existing Credits Paid Back,Used Car,8335,Unknown/ No Saving Ac,>=7,3,Male (Single),none,4,Unknown/ No property,47,none,For Free,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,48,Delay in Payment in past,Business,6681,Unknown/ No Saving Ac,1 to 4,4,Male (Single),none,4,Unknown/ No property,38,none,For Free,1,SkilledEmployee/Official,2,Yes,Yes,Good
+No Checking Account,24,Delay in Payment in past,Business,2375,500 - 1000,1 to 4,4,Male (Single),none,2,car or other,44,none,Own,2,SkilledEmployee/Official,2,Yes,Yes,Good
+< 0 DM,18,Existing Credits Paid Back,New Car,1216,<100,<1,4,Female (Div/Sep/Married),none,3,car or other,23,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+< 0 DM,45,No Credits taken/ All Credits Paid,Business,11816,<100,>=7,2,Male (Single),none,4,car or other,29,none,Rent,2,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,24,Existing Credits Paid Back,Radio/TV,5084,Unknown/ No Saving Ac,>=7,2,Female (Div/Sep/Married),none,4,car or other,42,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+>= 200 DM,15,Existing Credits Paid Back,Radio/TV,2327,<100,<1,2,Female (Div/Sep/Married),none,3,Real Estate,25,none,Own,1,Unskilled Resident,1,None,Yes,Bad
+< 0 DM,12,No Credits taken/ All Credits Paid,New Car,1082,<100,1 to 4,4,Male (Single),none,4,car or other,48,Bank,Own,2,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,12,Existing Credits Paid Back,Radio/TV,886,Unknown/ No Saving Ac,1 to 4,4,Female (Div/Sep/Married),none,2,car or other,21,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,4,Existing Credits Paid Back,Furniture/Equipment,601,<100,<1,1,Female (Div/Sep/Married),none,3,Real Estate,23,none,Rent,1,Unskilled Resident,2,None,Yes,Good
+< 0 DM,24,Critical Account/Other Credit Existing(Not this bank),Used Car,2957,<100,>=7,4,Male (Single),none,4,Society Saving/ Life Insurance,63,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Radio/TV,2611,<100,>=7,4,Male (Married/Widowed),co-applicant,3,Real Estate,46,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,36,Existing Credits Paid Back,Furniture/Equipment,5179,<100,4 to 7,4,Male (Single),none,2,Society Saving/ Life Insurance,29,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,21,Delay in Payment in past,Used Car,2993,<100,1 to 4,3,Male (Single),none,2,Real Estate,28,Stores,Own,2,Unskilled Resident,1,None,Yes,Good
+No Checking Account,18,Existing Credits Paid Back,Repairs,1943,<100,<1,4,Female (Div/Sep/Married),none,4,Real Estate,23,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,24,All Credits Paid (this bank),Business,1559,<100,4 to 7,4,Male (Single),none,4,car or other,50,Bank,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,18,Existing Credits Paid Back,Furniture/Equipment,3422,<100,>=7,4,Male (Single),none,4,Society Saving/ Life Insurance,47,Bank,Own,3,SkilledEmployee/Official,2,Yes,Yes,Good
+0 - 20 DM,21,Existing Credits Paid Back,Furniture/Equipment,3976,Unknown/ No Saving Ac,4 to 7,2,Male (Single),none,3,car or other,35,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,18,Existing Credits Paid Back,New Car,6761,Unknown/ No Saving Ac,1 to 4,2,Male (Single),none,4,car or other,68,none,Rent,2,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,24,Existing Credits Paid Back,New Car,1249,<100,<1,4,Male (Married/Widowed),none,2,Real Estate,28,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,9,Existing Credits Paid Back,Radio/TV,1364,<100,4 to 7,3,Male (Single),none,4,Real Estate,59,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,Radio/TV,709,<100,>=7,4,Male (Single),none,4,Real Estate,57,Stores,Own,1,Unskilled Resident,1,None,Yes,Bad
+< 0 DM,20,Critical Account/Other Credit Existing(Not this bank),New Car,2235,<100,1 to 4,4,Male (Married/Widowed),guarantor,2,Society Saving/ Life Insurance,33,Bank,Rent,2,SkilledEmployee/Official,1,None,No,Bad
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Used Car,4042,Unknown/ No Saving Ac,4 to 7,3,Male (Single),none,4,Society Saving/ Life Insurance,43,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,15,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1471,<100,1 to 4,4,Male (Single),none,4,Unknown/ No property,35,none,For Free,2,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,18,All Credits Paid (this bank),New Car,1442,<100,4 to 7,4,Male (Single),none,4,Unknown/ No property,32,none,For Free,2,Unskilled Resident,2,None,Yes,Bad
+No Checking Account,36,Delay in Payment in past,New Car,10875,<100,>=7,2,Male (Single),none,2,car or other,45,none,Own,2,SkilledEmployee/Official,2,Yes,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,New Car,1474,100 - 500,<1,4,Male (Married/Widowed),none,3,Real Estate,33,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,10,Existing Credits Paid Back,Retraining,894,Unknown/ No Saving Ac,4 to 7,4,Female (Div/Sep/Married),none,3,Society Saving/ Life Insurance,40,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,15,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,3343,<100,1 to 4,4,Male (Single),none,2,Unknown/ No property,28,none,For Free,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,15,Existing Credits Paid Back,New Car,3959,<100,1 to 4,3,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,29,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,9,Existing Credits Paid Back,New Car,3577,100 - 500,1 to 4,1,Male (Single),guarantor,2,Real Estate,26,none,Rent,1,SkilledEmployee/Official,2,None,No,Good
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Used Car,5804,>=1000,1 to 4,4,Male (Single),none,2,Real Estate,27,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,18,Delay in Payment in past,Business,2169,<100,1 to 4,4,Male (Married/Widowed),none,2,car or other,28,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+< 0 DM,24,Existing Credits Paid Back,Radio/TV,2439,<100,<1,4,Female (Div/Sep/Married),none,4,Real Estate,35,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,27,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,4526,>=1000,<1,4,Male (Single),none,2,Real Estate,32,Stores,Own,2,Unskilled Resident,2,Yes,Yes,Good
+No Checking Account,10,Existing Credits Paid Back,Furniture/Equipment,2210,<100,1 to 4,2,Male (Single),none,2,Real Estate,25,Bank,Rent,1,Unskilled Resident,1,None,Yes,Bad
+No Checking Account,15,Existing Credits Paid Back,Furniture/Equipment,2221,500 - 1000,1 to 4,2,Female (Div/Sep/Married),none,4,car or other,20,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,18,Existing Credits Paid Back,Radio/TV,2389,<100,<1,4,Female (Div/Sep/Married),none,1,car or other,27,Stores,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,3331,<100,>=7,2,Male (Single),none,4,Society Saving/ Life Insurance,42,Stores,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,36,Existing Credits Paid Back,Business,7409,Unknown/ No Saving Ac,>=7,3,Male (Single),none,2,Society Saving/ Life Insurance,37,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,Furniture/Equipment,652,<100,>=7,4,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,24,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,36,Delay in Payment in past,Furniture/Equipment,7678,500 - 1000,4 to 7,2,Female (Div/Sep/Married),none,4,car or other,40,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+>= 200 DM,6,Critical Account/Other Credit Existing(Not this bank),New Car,1343,<100,>=7,1,Male (Single),none,4,Real Estate,46,none,Own,2,SkilledEmployee/Official,2,None,No,Good
+< 0 DM,24,Critical Account/Other Credit Existing(Not this bank),Business,1382,100 - 500,4 to 7,4,Male (Single),none,1,Real Estate,26,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,15,Existing Credits Paid Back,Domestic Appliances,874,Unknown/ No Saving Ac,<1,4,Female (Div/Sep/Married),none,1,Real Estate,24,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,Furniture/Equipment,3590,<100,1 to 4,2,Male (Single),co-applicant,2,Society Saving/ Life Insurance,29,none,Own,1,Unskilled Resident,2,None,Yes,Good
+0 - 20 DM,11,Critical Account/Other Credit Existing(Not this bank),New Car,1322,>=1000,1 to 4,4,Female (Div/Sep/Married),none,4,car or other,40,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,18,All Credits Paid (this bank),Radio/TV,1940,<100,<1,3,Male (Single),co-applicant,4,Unknown/ No property,36,Bank,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,36,Existing Credits Paid Back,Radio/TV,3595,<100,>=7,4,Male (Single),none,2,car or other,28,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,9,Existing Credits Paid Back,New Car,1422,<100,<1,3,Male (Single),none,2,Unknown/ No property,27,none,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,30,Critical Account/Other Credit Existing(Not this bank),Radio/TV,6742,Unknown/ No Saving Ac,4 to 7,2,Male (Single),none,3,Society Saving/ Life Insurance,36,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Used Car,7814,<100,4 to 7,3,Male (Single),none,3,car or other,38,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Used Car,9277,Unknown/ No Saving Ac,1 to 4,2,Male (Div/Sep/Married),none,4,Unknown/ No property,48,none,For Free,1,SkilledEmployee/Official,1,Yes,Yes,Good
+0 - 20 DM,30,Critical Account/Other Credit Existing(Not this bank),New Car,2181,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Real Estate,36,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,18,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1098,<100,unemployed,4,Female (Div/Sep/Married),none,4,car or other,65,none,Own,2,UnEmp - NR,1,None,Yes,Good
+0 - 20 DM,24,Existing Credits Paid Back,Furniture/Equipment,4057,<100,4 to 7,3,Male (Div/Sep/Married),none,3,car or other,43,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+< 0 DM,12,Existing Credits Paid Back,Education,795,<100,<1,4,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,53,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,24,Critical Account/Other Credit Existing(Not this bank),Business,2825,Unknown/ No Saving Ac,4 to 7,4,Male (Single),none,3,Unknown/ No property,34,none,Own,2,SkilledEmployee/Official,2,Yes,Yes,Good
+0 - 20 DM,48,Existing Credits Paid Back,Business,15672,<100,1 to 4,2,Male (Single),none,2,car or other,23,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,36,Critical Account/Other Credit Existing(Not this bank),New Car,6614,<100,>=7,4,Male (Single),none,4,car or other,34,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,28,All Credits Paid (this bank),Used Car,7824,Unknown/ No Saving Ac,<1,3,Male (Single),guarantor,4,Real Estate,40,Bank,Rent,2,SkilledEmployee/Official,2,Yes,Yes,Good
+< 0 DM,27,Critical Account/Other Credit Existing(Not this bank),Business,2442,<100,>=7,4,Male (Single),none,4,car or other,43,Stores,Own,4,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Good
+No Checking Account,15,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1829,<100,>=7,4,Male (Single),none,4,car or other,46,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,12,Critical Account/Other Credit Existing(Not this bank),New Car,2171,<100,1 to 4,4,Male (Single),none,4,Society Saving/ Life Insurance,38,Bank,Own,2,Unskilled Resident,1,None,No,Good
+0 - 20 DM,36,Critical Account/Other Credit Existing(Not this bank),Used Car,5800,<100,1 to 4,3,Male (Single),none,4,car or other,34,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,18,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1169,Unknown/ No Saving Ac,1 to 4,4,Male (Single),none,3,Society Saving/ Life Insurance,29,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,36,Delay in Payment in past,Used Car,8947,Unknown/ No Saving Ac,4 to 7,3,Male (Single),none,2,car or other,31,Stores,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Good
+< 0 DM,21,Existing Credits Paid Back,Radio/TV,2606,<100,<1,4,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,28,none,Rent,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,1592,>=1000,4 to 7,3,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,35,none,Own,1,SkilledEmployee/Official,1,None,No,Good
+No Checking Account,15,Existing Credits Paid Back,Furniture/Equipment,2186,Unknown/ No Saving Ac,4 to 7,1,Female (Div/Sep/Married),none,4,Real Estate,33,Bank,Rent,1,Unskilled Resident,1,None,Yes,Good
+< 0 DM,18,Existing Credits Paid Back,Furniture/Equipment,4153,<100,1 to 4,2,Male (Single),co-applicant,3,car or other,42,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,16,Critical Account/Other Credit Existing(Not this bank),New Car,2625,<100,>=7,2,Male (Single),guarantor,4,Society Saving/ Life Insurance,43,Bank,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,20,Critical Account/Other Credit Existing(Not this bank),New Car,3485,Unknown/ No Saving Ac,<1,2,Male (Div/Sep/Married),none,4,Real Estate,44,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,36,Critical Account/Other Credit Existing(Not this bank),Used Car,10477,Unknown/ No Saving Ac,>=7,2,Male (Single),none,4,Unknown/ No property,42,none,For Free,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,15,Existing Credits Paid Back,Radio/TV,1386,Unknown/ No Saving Ac,1 to 4,4,Male (Married/Widowed),none,2,Real Estate,40,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Radio/TV,1278,<100,>=7,4,Male (Single),none,1,Real Estate,36,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,Radio/TV,1107,<100,1 to 4,2,Male (Single),none,2,Real Estate,20,none,Rent,1,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Good
+< 0 DM,21,Existing Credits Paid Back,New Car,3763,Unknown/ No Saving Ac,4 to 7,2,Male (Single),co-applicant,2,Real Estate,24,none,Own,1,Unskilled Resident,1,None,No,Good
+0 - 20 DM,36,Existing Credits Paid Back,Education,3711,Unknown/ No Saving Ac,1 to 4,2,Male (Married/Widowed),none,2,car or other,27,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,15,Delay in Payment in past,Used Car,3594,<100,<1,1,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,46,none,Own,2,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,9,Existing Credits Paid Back,New Car,3195,Unknown/ No Saving Ac,1 to 4,1,Female (Div/Sep/Married),none,2,Real Estate,33,none,Own,1,Unskilled Resident,1,None,Yes,Good
+No Checking Account,36,Delay in Payment in past,Radio/TV,4454,<100,1 to 4,4,Female (Div/Sep/Married),none,4,Real Estate,34,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,24,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,4736,<100,<1,2,Female (Div/Sep/Married),none,4,car or other,25,Bank,Own,1,Unskilled Resident,1,None,Yes,Bad
+0 - 20 DM,30,Existing Credits Paid Back,Radio/TV,2991,Unknown/ No Saving Ac,>=7,2,Female (Div/Sep/Married),none,4,car or other,25,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,11,Existing Credits Paid Back,Business,2142,>=1000,>=7,1,Male (Div/Sep/Married),none,2,Real Estate,28,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,24,All Credits Paid (this bank),Business,3161,<100,1 to 4,4,Male (Single),none,2,Society Saving/ Life Insurance,31,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+0 - 20 DM,48,No Credits taken/ All Credits Paid,others,18424,<100,1 to 4,1,Female (Div/Sep/Married),none,2,Society Saving/ Life Insurance,32,Bank,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,No,Bad
+No Checking Account,10,Existing Credits Paid Back,Used Car,2848,100 - 500,1 to 4,1,Male (Single),co-applicant,2,Real Estate,32,none,Own,1,SkilledEmployee/Official,2,None,Yes,Good
+< 0 DM,6,Existing Credits Paid Back,New Car,14896,<100,>=7,1,Male (Single),none,4,Unknown/ No property,68,Bank,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+< 0 DM,24,Existing Credits Paid Back,Furniture/Equipment,2359,100 - 500,unemployed,1,Male (Div/Sep/Married),none,1,Society Saving/ Life Insurance,33,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+< 0 DM,24,Existing Credits Paid Back,Furniture/Equipment,3345,<100,>=7,4,Male (Single),none,2,Society Saving/ Life Insurance,39,none,Rent,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+No Checking Account,18,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,1817,<100,1 to 4,4,Female (Div/Sep/Married),none,2,Unknown/ No property,28,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,48,Delay in Payment in past,Radio/TV,12749,500 - 1000,4 to 7,4,Male (Single),none,1,car or other,37,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,9,Existing Credits Paid Back,Radio/TV,1366,<100,<1,3,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,22,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,12,Existing Credits Paid Back,New Car,2002,<100,4 to 7,3,Male (Single),none,4,Society Saving/ Life Insurance,30,none,Rent,1,SkilledEmployee/Official,2,Yes,Yes,Good
+< 0 DM,24,All Credits Paid (this bank),Furniture/Equipment,6872,<100,<1,2,Male (Div/Sep/Married),none,1,Society Saving/ Life Insurance,55,Bank,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+< 0 DM,12,All Credits Paid (this bank),New Car,697,<100,<1,4,Male (Single),none,2,car or other,46,Bank,Own,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+< 0 DM,18,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,1049,<100,<1,4,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,21,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,48,Existing Credits Paid Back,Used Car,10297,<100,4 to 7,4,Male (Single),none,4,Unknown/ No property,39,Stores,For Free,3,SkilledEmployee/Official,2,Yes,Yes,Bad
+No Checking Account,30,Existing Credits Paid Back,Radio/TV,1867,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,car or other,58,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,12,Delay in Payment in past,New Car,1344,<100,1 to 4,4,Male (Single),none,2,Real Estate,43,none,Own,2,Unskilled Resident,2,None,Yes,Good
+< 0 DM,24,Existing Credits Paid Back,Furniture/Equipment,1747,<100,<1,4,Male (Single),co-applicant,1,Society Saving/ Life Insurance,24,none,Own,1,Unskilled Resident,1,None,No,Good
+0 - 20 DM,9,Existing Credits Paid Back,Radio/TV,1670,<100,<1,4,Female (Div/Sep/Married),none,2,car or other,22,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+No Checking Account,9,Critical Account/Other Credit Existing(Not this bank),New Car,1224,<100,1 to 4,3,Male (Single),none,1,Real Estate,30,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Radio/TV,522,500 - 1000,>=7,4,Male (Single),none,4,Society Saving/ Life Insurance,42,none,Own,2,SkilledEmployee/Official,2,Yes,Yes,Good
+< 0 DM,12,Existing Credits Paid Back,Radio/TV,1498,<100,1 to 4,4,Female (Div/Sep/Married),none,1,car or other,23,Bank,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,30,Delay in Payment in past,Radio/TV,1919,100 - 500,<1,4,Male (Single),none,3,Unknown/ No property,30,Stores,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,None,Yes,Bad
+>= 200 DM,9,Existing Credits Paid Back,Radio/TV,745,<100,1 to 4,3,Female (Div/Sep/Married),none,2,Real Estate,28,none,Own,1,Unskilled Resident,1,None,Yes,Bad
+0 - 20 DM,6,Existing Credits Paid Back,Radio/TV,2063,<100,<1,4,Male (Married/Widowed),none,3,car or other,30,none,Rent,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,60,Existing Credits Paid Back,Education,6288,<100,1 to 4,4,Male (Single),none,4,Unknown/ No property,42,none,For Free,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Used Car,6842,Unknown/ No Saving Ac,1 to 4,2,Male (Single),none,4,Society Saving/ Life Insurance,46,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,New Car,3527,Unknown/ No Saving Ac,<1,2,Male (Single),none,3,Society Saving/ Life Insurance,45,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,2,Yes,Yes,Good
+No Checking Account,10,Existing Credits Paid Back,New Car,1546,<100,1 to 4,3,Male (Single),none,2,Real Estate,31,none,Own,1,Unskilled Resident,2,None,No,Good
+No Checking Account,24,Existing Credits Paid Back,Furniture/Equipment,929,Unknown/ No Saving Ac,4 to 7,4,Male (Single),none,2,car or other,31,Stores,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,4,Critical Account/Other Credit Existing(Not this bank),New Car,1455,<100,4 to 7,2,Male (Single),none,1,Real Estate,42,none,Own,3,Unskilled Resident,2,None,Yes,Good
+< 0 DM,15,Existing Credits Paid Back,Furniture/Equipment,1845,<100,<1,4,Female (Div/Sep/Married),guarantor,1,Society Saving/ Life Insurance,46,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,48,No Credits taken/ All Credits Paid,New Car,8358,500 - 1000,<1,1,Female (Div/Sep/Married),none,1,car or other,30,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,24,All Credits Paid (this bank),Furniture/Equipment,3349,500 - 1000,<1,4,Male (Single),none,4,Unknown/ No property,30,none,For Free,1,SkilledEmployee/Official,2,Yes,Yes,Bad
+No Checking Account,12,Existing Credits Paid Back,New Car,2859,Unknown/ No Saving Ac,unemployed,4,Male (Single),none,4,Unknown/ No property,38,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,18,Existing Credits Paid Back,Furniture/Equipment,1533,<100,<1,4,Male (Married/Widowed),co-applicant,1,Society Saving/ Life Insurance,43,none,Own,1,Unskilled Resident,2,None,Yes,Bad
+No Checking Account,24,Existing Credits Paid Back,Radio/TV,3621,100 - 500,>=7,2,Male (Single),none,4,car or other,31,none,Own,2,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,18,Critical Account/Other Credit Existing(Not this bank),Business,3590,<100,unemployed,3,Male (Married/Widowed),none,3,car or other,40,none,Own,3,UnEmp - NR,2,Yes,Yes,Good
+< 0 DM,36,Delay in Payment in past,Business,2145,<100,4 to 7,2,Male (Single),none,1,car or other,24,none,Own,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+0 - 20 DM,24,Existing Credits Paid Back,Used Car,4113,500 - 1000,<1,3,Female (Div/Sep/Married),none,4,car or other,28,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,36,Existing Credits Paid Back,Furniture/Equipment,10974,<100,unemployed,4,Female (Div/Sep/Married),none,2,car or other,26,none,Own,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+< 0 DM,12,Existing Credits Paid Back,New Car,1893,<100,1 to 4,4,Female (Div/Sep/Married),guarantor,4,Society Saving/ Life Insurance,29,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,24,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1231,>=1000,>=7,4,Female (Div/Sep/Married),none,4,Society Saving/ Life Insurance,57,none,Rent,2,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+>= 200 DM,30,Critical Account/Other Credit Existing(Not this bank),Radio/TV,3656,Unknown/ No Saving Ac,>=7,4,Male (Single),none,4,Society Saving/ Life Insurance,49,Stores,Own,2,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,9,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1154,<100,>=7,2,Male (Single),none,4,Real Estate,37,none,Own,3,Unskilled Resident,1,None,Yes,Good
+< 0 DM,28,Existing Credits Paid Back,New Car,4006,<100,1 to 4,3,Male (Single),none,2,car or other,45,none,Own,1,Unskilled Resident,1,None,Yes,Bad
+0 - 20 DM,24,Existing Credits Paid Back,Furniture/Equipment,3069,100 - 500,>=7,4,Male (Single),none,4,Unknown/ No property,30,none,For Free,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,6,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1740,<100,>=7,2,Male (Married/Widowed),none,2,Real Estate,30,none,Rent,2,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,21,Delay in Payment in past,New Car,2353,<100,1 to 4,1,Male (Div/Sep/Married),none,4,Society Saving/ Life Insurance,47,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,15,Existing Credits Paid Back,New Car,3556,Unknown/ No Saving Ac,1 to 4,3,Male (Single),none,2,Unknown/ No property,29,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,Radio/TV,2397,500 - 1000,>=7,3,Male (Single),none,2,car or other,35,Bank,Own,2,SkilledEmployee/Official,1,Yes,Yes,Bad
+0 - 20 DM,6,Existing Credits Paid Back,Repairs,454,<100,<1,3,Male (Married/Widowed),none,1,Society Saving/ Life Insurance,22,none,Own,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,30,Existing Credits Paid Back,Radio/TV,1715,Unknown/ No Saving Ac,1 to 4,4,Female (Div/Sep/Married),none,1,car or other,26,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,27,Critical Account/Other Credit Existing(Not this bank),Radio/TV,2520,500 - 1000,1 to 4,4,Male (Single),none,2,Society Saving/ Life Insurance,23,none,Own,2,Unskilled Resident,1,None,Yes,Bad
+No Checking Account,15,Existing Credits Paid Back,Radio/TV,3568,<100,>=7,4,Female (Div/Sep/Married),none,2,car or other,54,Bank,Rent,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,42,Existing Credits Paid Back,Radio/TV,7166,Unknown/ No Saving Ac,4 to 7,2,Male (Married/Widowed),none,4,Society Saving/ Life Insurance,29,none,Rent,1,SkilledEmployee/Official,1,Yes,Yes,Good
+< 0 DM,11,Critical Account/Other Credit Existing(Not this bank),New Car,3939,<100,1 to 4,1,Male (Single),none,2,Real Estate,40,none,Own,2,Unskilled Resident,2,None,Yes,Good
+0 - 20 DM,15,Existing Credits Paid Back,Repairs,1514,100 - 500,1 to 4,4,Male (Single),guarantor,2,Real Estate,22,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,24,Existing Credits Paid Back,New Car,7393,<100,1 to 4,1,Male (Single),none,4,Society Saving/ Life Insurance,43,none,Own,1,Unskilled Resident,2,None,Yes,Good
+< 0 DM,24,All Credits Paid (this bank),New Car,1193,<100,unemployed,1,Female (Div/Sep/Married),co-applicant,4,Unknown/ No property,29,none,Rent,2,UnEmp - NR,1,None,Yes,Bad
+< 0 DM,60,Existing Credits Paid Back,Business,7297,<100,>=7,4,Male (Single),co-applicant,4,Unknown/ No property,36,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,30,Critical Account/Other Credit Existing(Not this bank),Radio/TV,2831,<100,1 to 4,4,Female (Div/Sep/Married),none,2,car or other,33,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+>= 200 DM,24,Existing Credits Paid Back,Radio/TV,1258,500 - 1000,1 to 4,3,Female (Div/Sep/Married),none,3,car or other,57,none,Own,1,Unskilled Resident,1,None,Yes,Good
+0 - 20 DM,6,Existing Credits Paid Back,Radio/TV,753,<100,1 to 4,2,Female (Div/Sep/Married),guarantor,3,Real Estate,64,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+0 - 20 DM,18,Delay in Payment in past,Business,2427,Unknown/ No Saving Ac,>=7,4,Male (Single),none,2,Society Saving/ Life Insurance,42,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,24,Delay in Payment in past,New Car,2538,<100,>=7,4,Male (Single),none,4,car or other,47,none,Own,2,Unskilled Resident,2,None,Yes,Bad
+0 - 20 DM,15,All Credits Paid (this bank),New Car,1264,100 - 500,1 to 4,2,Male (Married/Widowed),none,2,Society Saving/ Life Insurance,25,none,Rent,1,SkilledEmployee/Official,1,None,Yes,Bad
+0 - 20 DM,30,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,8386,<100,4 to 7,2,Male (Single),none,2,Society Saving/ Life Insurance,49,none,Own,1,SkilledEmployee/Official,1,None,Yes,Bad
+No Checking Account,48,Existing Credits Paid Back,Business,4844,<100,unemployed,3,Male (Single),none,2,car or other,33,Bank,Rent,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Bad
+>= 200 DM,21,Existing Credits Paid Back,New Car,2923,100 - 500,1 to 4,1,Female (Div/Sep/Married),none,1,car or other,28,Bank,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+< 0 DM,36,Existing Credits Paid Back,Used Car,8229,<100,1 to 4,2,Male (Single),none,2,Society Saving/ Life Insurance,26,none,Own,1,SkilledEmployee/Official,2,None,Yes,Bad
+No Checking Account,24,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,2028,<100,4 to 7,2,Male (Single),none,2,Society Saving/ Life Insurance,30,none,Own,2,Unskilled Resident,1,None,Yes,Good
+< 0 DM,15,Critical Account/Other Credit Existing(Not this bank),Furniture/Equipment,1433,<100,1 to 4,4,Female (Div/Sep/Married),none,3,Society Saving/ Life Insurance,25,none,Rent,2,SkilledEmployee/Official,1,None,Yes,Good
+>= 200 DM,42,No Credits taken/ All Credits Paid,Business,6289,<100,<1,2,Male (Div/Sep/Married),none,1,Society Saving/ Life Insurance,33,none,Own,2,SkilledEmployee/Official,1,None,Yes,Good
+No Checking Account,13,Existing Credits Paid Back,Radio/TV,1409,100 - 500,unemployed,2,Female (Div/Sep/Married),none,4,Real Estate,64,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,24,Existing Credits Paid Back,Used Car,6579,<100,unemployed,4,Male (Single),none,2,Unknown/ No property,29,none,For Free,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+0 - 20 DM,24,Critical Account/Other Credit Existing(Not this bank),Radio/TV,1743,<100,>=7,4,Male (Single),none,2,Society Saving/ Life Insurance,48,none,Own,2,Unskilled Resident,1,None,Yes,Good
+No Checking Account,12,Critical Account/Other Credit Existing(Not this bank),Education,3565,Unknown/ No Saving Ac,<1,2,Male (Single),none,1,Society Saving/ Life Insurance,37,none,Own,2,Unskilled Resident,2,None,Yes,Good
+No Checking Account,15,All Credits Paid (this bank),Radio/TV,1569,100 - 500,>=7,4,Male (Single),none,4,car or other,34,Bank,Own,1,Unskilled Resident,2,None,Yes,Good
+< 0 DM,18,Existing Credits Paid Back,Radio/TV,1936,Unknown/ No Saving Ac,4 to 7,2,Male (Married/Widowed),none,4,car or other,23,none,Rent,2,Unskilled Resident,1,None,Yes,Good
+< 0 DM,36,Existing Credits Paid Back,Furniture/Equipment,3959,<100,unemployed,4,Male (Single),none,3,Society Saving/ Life Insurance,30,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,New Car,2390,Unknown/ No Saving Ac,>=7,4,Male (Single),none,3,car or other,50,none,Own,1,SkilledEmployee/Official,1,Yes,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,Furniture/Equipment,1736,<100,4 to 7,3,Female (Div/Sep/Married),none,4,Real Estate,31,none,Own,1,Unskilled Resident,1,None,Yes,Good
+< 0 DM,30,Existing Credits Paid Back,Used Car,3857,<100,1 to 4,4,Male (Div/Sep/Married),none,4,Society Saving/ Life Insurance,40,none,Own,1,Mgmt/Self-Emp/Qual-Emp/Officer,1,Yes,Yes,Good
+No Checking Account,12,Existing Credits Paid Back,Radio/TV,804,<100,>=7,4,Male (Single),none,4,car or other,38,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
+< 0 DM,45,Existing Credits Paid Back,Radio/TV,1845,<100,1 to 4,4,Male (Single),none,4,Unknown/ No property,23,none,For Free,1,SkilledEmployee/Official,1,Yes,Yes,Bad
+0 - 20 DM,45,Critical Account/Other Credit Existing(Not this bank),Used Car,4576,100 - 500,unemployed,3,Male (Single),none,4,car or other,27,none,Own,1,SkilledEmployee/Official,1,None,Yes,Good
